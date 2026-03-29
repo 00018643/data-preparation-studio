@@ -1,0 +1,1267 @@
+EmployeeID,Name,Age,Gender,City,Department,HireDate,YearsExperience,Salary,Bonus,PerformanceScore,Status,EducationLevel
+E0001,Employee_1,41.0,Male,Andijan,Marketing,2021-09-01,13.0,,524000,83.5,Pending,PhD
+E0002,Employee_2,56.0,Male,Samarkand,Sales,2024-03-18,29.0,2038000,600000,74.4,Inactive,
+E0003,Employee_3,21.0,Female,Nukus,IT,2023-07-10,0.0,1891000,321000,64.2,Inactive,High School
+E0004,Employee_4,42.0,Female,,Support,2025-01-20,21.0,1641000,550000,67.9,,Master
+E0005,Employee_5,44.0,Female,,Finance,,19.0,1444000,432000,,Pending,PhD
+E0006,Employee_6,54.0,Female,Tashkent,Marketing,2023-03-27,,2229000,430000,79.8,Active,Bachelor
+E0007,Employee_7,54.0,Male,Khiva,HR,2021-04-11,33.0,1969000,637000,73.9,Active,PhD
+E0008,Employee_8,,Female,Khiva,Operations,2024-10-12,23.0,1014000,573000,180.0,Inactive,PhD
+E0009,Employee_9,39.0,Female,Khiva,IT,2022-02-19,15.0,518000,33000,61.6,Active,Master
+E0010,Employee_10,52.0,Male,Namangan,IT,2024-11-19,,1547000,509000,90.6,Inactive,High School
+E0011,Employee_11,53.0,Female,Samarkand,Support,2023-06-17,29.0,1427000,187000,97.6,Inactive,PhD
+E0012,Employee_12,27.0,Male,Samarkand,Sales,2023-01-29,4.0,2030000,421000,61.4,Inactive,High School
+E0013,Employee_13,33.0,Female,Nukus,HR,2024-06-03,10.0,747000,635000,,Active,Master
+E0014,Employee_14,58.0,Female,Bukhara,Marketing,2024-09-23,31.0,1912000,138000,79.0,Pending,Master
+E0015,Employee_15,47.0,Female,Fergana,Finance,2021-06-22,25.0,2414000,138000,89.5,Active,Bachelor
+E0016,Employee_16,21.0,Female,Nukus,Operations,2023-02-10,0.0,"1,250,000",75000,57.3,Active,High School
+E0017,Employee_17,51.0,Male,Khiva,,2023-11-12,26.0,1898000,310000,74.8,Pending,Bachelor
+E0018,Employee_18,58.0,Female,Andijan,Support,2021-11-12,30.0,923000,444000,82.4,,High School
+E0019,Employee_19,46.0,Male,Tashkent,Finance,2024-01-26,26.0,900000,662000,95.5,Pending,
+E0020,Employee_20,22.0,Male,,Support,2023-09-18,0.0,1822000,542000,64.6,Active,PhD
+E0021,Employee_21,48.0,Male,Nukus,HR,2022-07-13,20.0,1348000,80000,71.9,Inactive,PhD
+E0022,Employee_22,47.0,Female,Khiva,Sales,2023-10-17,23.0,1457000,181000,69.3,Pending,Master
+E0023,Employee_23,,Female,Fergana,Marketing,2021-07-13,11.0,510000,95000,93.7,Pending,Bachelor
+E0024,Employee_24,43.0,Male,Samarkand,Marketing,2021-02-25,21.0,1220000,575000,85.2,Pending,
+E0025,Employee_25,57.0,Male,Samarkand,Operations,2024-02-13,34.0,1667000,301000,79.8,Inactive,High School
+E0026,Employee_26,31.0,Male,Samarkand,Marketing,2023-06-13,10.0,1901000,61000,88.4,Inactive,Master
+E0027,Employee_27,25.0,Female,Samarkand,Sales,2024-04-19,1.0,2408000,322000,,Inactive,Master
+E0028,Employee_28,21.0,Male,Samarkand,Support,2023-04-29,1.0,697000,240000,56.0,Pending,Master
+E0029,Employee_29,50.0,,Khiva,Finance,2022-10-08,30.0,2393000,413000,68.9,Pending,High School
+E0030,Employee_30,44.0,Female,Tashkent,Support,2024-11-06,,1895000,257000,72.1,Pending,PhD
+E0031,Employee_31,39.0,Female,Nukus,Marketing,2021-02-18,14.0,1093000,125000,68.1,Active,Master
+E0032,Employee_32,56.0,Male,Samarkand,Sales,2022-02-09,36.0,1977000,115000,62.1,Active,Master
+E0033,Employee_33,40.0,Female,Fergana,Finance,2024-05-07,20.0,1369000,592000,60.6,Active,PhD
+E0034,Employee_34,35.0,Female,Namangan,Operations,2024-09-18,13.0,,555000,56.3,Active,Bachelor
+E0035,Employee_35,22.0,Female,Bukhara,Support,02-17-2021,,1608000,,,Pending,High School
+E0036,Employee_36,56.0,Female,Nukus,Sales,2022-01-03,36.0,1831000,526000,91.1,Pending,High School
+E0037,Employee_37,36.0,Male,Fergana,Support,2024-07-09,9.0,619000,227000,84.9,Inactive,Bachelor
+E0038,Employee_38,38.0,Female,Khiva,Marketing,2024-02-25,13.0,2263000,205000,71.5,,Master
+E0039,Employee_39,31.0,Female,Fergana,Operations,2022-01-20,5.0,814000,496000,94.3,Active,Bachelor
+E0040,Employee_40,40.0,Male,Tashkent,Marketing,2021-06-22,15.0,1619000,271000,61.1,Active,Master
+E0041,Employee_41,23.0,Male,,Sales,2024-03-18,0.0,1279000,551000,97.4,Active,PhD
+E0042,Employee_42,56.0,Male,Bukhara,IT,2022-11-15,32.0,1135000,42000,87.4,Inactive,Master
+E0043,Employee_43,29.0,Female,Fergana,IT,2023-01-02,3.0,886000,644000,55.4,Pending,Bachelor
+E0044,Employee_44,54.0,Male,Tashkent,Sales,2025-01-18,34.0,867000,322000,78.7,Pending,High School
+E0045,Employee_45,25.0,Male,Bukhara,Sales,2023-02-07,0.0,1119000,221000,78.4,Inactive,PhD
+E0046,Employee_46,25.0,Male,Nukus,Finance,2021-08-08,0.0,1037000,631000,68.3,Inactive,High School
+E0047,Employee_47,,Female,Nukus,,2024-02-12,31.0,,367000,85.1,Active,High School
+E0048,Employee_48,40.0,Female,Fergana,Marketing,2023-10-11,16.0,2042000,677000,,Pending,Master
+E0049,Employee_49,52.0,Female,Andijan,Operations,2022-10-23,26.0,1142000,180000,63.6,Pending,Master
+E0050,Employee_50,43.0,Male,Khiva,Support,2025-04-04,17.0,2203000,604000,71.8,Pending,Bachelor
+E0051,Employee_51,38.0,Female,Namangan,HR,2023-06-03,13.0,2211000,120000,69.1,Pending,Master
+E0052,Employee_52,42.0,Female,,Finance,2022-04-25,20.0,1649000,126000,66.8,Active,Master
+E0053,Employee_53,47.0,Female,Andijan,Finance,2024-10-12,22.0,694000,695000,88.8,Inactive,Master
+E0054,Employee_54,46.0,Female,Bukhara,IT,2021-05-03,24.0,521000,273000,79.6,Pending,PhD
+E0055,Employee_55,51.0,,Samarkand,Support,2025-05-13,24.0,1193000,12000,56.6,Inactive,Master
+E0056,Employee_56,34.0,Female,Samarkand,Marketing,2021-02-06,7.0,1554000,283000,,Pending,Bachelor
+E0057,Employee_57,21.0,Female,Andijan,Marketing,2024-01-09,0.0,819000,337000,97.8,Pending,Bachelor
+E0058,Employee_58,40.0,Male,Samarkand,Sales,2024-12-15,19.0,1662000,427000,86.3,Inactive,PhD
+E0059,Employee_59,32.0,Female,Nukus,IT,2021-04-02,4.0,2003000,525000,98.5,Inactive,Master
+E0060,Employee_60,51.0,Male,Khiva,HR,2024-05-27,27.0,1500000,334000,91.9,,PhD
+E0061,Employee_61,37.0,Female,Namangan,HR,2023-01-20,10.0,907000,376000,67.0,Pending,High School
+E0062,Employee_62,25.0,Female,Khiva,Marketing,2023-04-22,0.0,1896000,545000,88.7,Active,Master
+E0063,Employee_63,41.0,Male,Namangan,Operations,2023-09-29,,,185000,58.4,Pending,PhD
+E0064,Employee_64,27.0,Female,Bukhara,Marketing,2024-07-15,4.0,559000,474000,65.6,Active,Master
+E0065,Employee_65,52.0,Female,Nukus,Support,,30.0,1644000,694000,92.0,Inactive,Bachelor
+E0066,Employee_66,59.0,Male,Tashkent,SALES,2021-11-08,31.0,1943000,156000,87.1,,High School
+E0067,Employee_67,40.0,Female,Bukhara,Finance,2022-07-29,18.0,785000,273000,97.4,Active,Bachelor
+E0068,Employee_68,24.0,Female,Tashkent,IT,2024-11-20,2.0,1892000,157000,73.2,Active,Master
+E0069,Employee_69,26.0,Female,Bukhara,Support,2024/01/17,0.0,1893000,416000,61.8,Pending,High School
+E0070,Employee_70,21.0,Female,Nukus,Operations,2023-08-23,1.0,693000,,80.8,,Bachelor
+E0071,Employee_71,33.0,Male,Andijan,HR,2023-10-28,12.0,1365000,679000,74.1,Pending,PhD
+E0072,Employee_72,44.0,Female,Nukus,Support,2022-03-12,22.0,1597000,432000,86.7,Active,Master
+E0073,Employee_73,49.0,Male,Andijan,Sales,2024-07-12,21.0,1742000,493000,59.0,Active,Master
+E0074,Employee_74,60.0,Female,Andijan,,,38.0,735000,176000,64.0,Active,
+E0075,Employee_75,38.0,Female,Khiva,IT,2024-08-20,14.0,2013000,373000,72.5,Inactive,
+E0076,Employee_76,,Female,Fergana,Marketing,2021-10-10,5.0,1646000,227000,97.7,Pending,High School
+E0077,Employee_77,56.0,Male,Khiva,Finance,2024-11-30,31.0,2046000,260000,97.6,Inactive,High School
+E0078,Employee_78,17.0,Female,Samarkand,Finance,2022-07-20,19.0,664000,604000,56.8,Pending,PhD
+E0079,Employee_79,51.0,Male,Tashkent,,2024-06-10,23.0,544000,156000,94.5,Inactive,High School
+E0080,Employee_80,55.0,Male,,Support,2021-12-11,31.0,537000,,88.0,Inactive,Bachelor
+E0081,Employee_81,51.0,Female,Andijan,Marketing,2022-09-21,28.0,1159000,479000,85.4,Inactive,PhD
+E0082,Employee_82,52.0,Male,Khiva,Marketing,2021-03-26,29.0,1719000,188000,74.3,Inactive,PhD
+E0083,Employee_83,22.0,Male,Khiva,Operations,2023-12-22,0.0,2436000,223000,71.9,Active,Master
+E0084,Employee_84,54.0,Male,Nukus,Marketing,2022-05-09,,1047000,442000,93.0,,Bachelor
+E0085,Employee_85,28.0,Male,Khiva,Finance,2023-12-23,3.0,2150000,222000,80.8,Active,High School
+E0086,Employee_86,46.0,Male,Namangan,IT,2023-05-02,26.0,1000000,201000,57.2,Active,Master
+E0087,Employee_87,23.0,Male,Khiva,Marketing,2021-12-10,0.0,1947000,646000,90.3,Pending,High School
+E0088,Employee_88,50.0,Male,Khiva,Sales,2022-12-30,22.0,1791000,35000,97.1,Inactive,High School
+E0089,Employee_89,25.0,Male,Khiva,IT,2021-12-11,1.0,919000,7000,67.6,Active,Bachelor
+E0090,Employee_90,54.0,Female,Andijan,Marketing,2024-01-27,26.0,987000,507000,91.1,Inactive,PhD
+E0091,Employee_91,36.0,Male,Khiva,Support,2021-06-29,16.0,530000,423000,72.0,Pending,Bachelor
+E0092,Employee_92,36.0,Female,Fergana,IT,2021-12-18,14.0,,,77.2,,Bachelor
+E0093,Employee_93,26.0,Male,Andijan,Operations,2023-08-17,6.0,1205000,76000,87.9,Inactive,Bachelor
+E0094,Employee_94,41.0,Male,Fergana,Sales,,19.0,1513000,563000,60.1,Pending,PhD
+E0095,Employee_95,47.0,Male,Namangan,HR,2024-07-12,,1549000,364000,,Active,PhD
+E0096,Employee_96,40.0,Male,Nukus,Support,2022-05-17,18.0,1128000,544000,,Active,
+E0097,Employee_97,27.0,Male,Khiva,Sales,2024-04-23,4.0,1860000,482000,88.0,Active,Bachelor
+E0098,Employee_98,60.0,Female,Tashkent,Finance,2021-01-09,32.0,1137000,151000,72.9,Pending,Master
+E0099,Employee_99,45.0,Male,Nukus,Finance,11-05-2021,25.0,1409000,601000,60.3,Active,PhD
+E0100,Employee_100,49.0,Female,Khiva,IT,2022-07-15,22.0,1990000,304000,66.0,Inactive,Bachelor
+E0101,Employee_101,60.0,Female,Fergana,HR,2021-07-28,32.0,562000,209000,64.4,Pending,Master
+E0102,Employee_102,27.0,,Andijan,Marketing,2021-12-06,4.0,1288000,131000,81.5,Pending,Master
+E0103,Employee_103,55.0,Female,Andijan,HR,2024-01-17,29.0,1920000,269000,70.3,Pending,Master
+E0104,Employee_104,60.0,Male,Khiva,Finance,2021-03-18,37.0,1115000,173000,92.3,Pending,PhD
+E0105,Employee_105,24.0,Female,Namangan,Operations,2024-10-26,0.0,2011000,37000,90.2,Inactive,Bachelor
+E0106,Employee_106,55.0,Female,Nukus,Operations,2024-11-16,27.0,1084000,680000,91.6,Inactive,
+E0107,Employee_107,47.0,,Andijan,Marketing,2021-01-28,19.0,1379000,396000,82.4,Pending,PhD
+E0108,Employee_108,90.0,Female,Khiva,Operations,2022-12-31,1.0,983000,220000,62.7,Active,PhD
+E0109,Employee_109,33.0,Male,Samarkand,HR,2023-11-17,8.0,563000,558000,58.7,Inactive,High School
+E0110,Employee_110,59.0,Male,Fergana,HR,2023-07-26,34.0,1802000,528000,98.7,Inactive,Master
+E0111,Employee_111,27.0,Female,Fergana,Sales,2021/01/08,6.0,2060000,349000,84.0,Pending,High School
+E0112,Employee_112,56.0,Male,Nukus,HR,2022-01-26,29.0,1198000,608000,63.0,Active,PhD
+E0113,Employee_113,27.0,Male,Samarkand,Sales,2023-08-13,0.0,2129000,433000,88.2,Pending,
+E0114,Employee_114,25.0,Female,Samarkand,Sales,2023-05-17,0.0,1519000,62000,74.7,Inactive,Bachelor
+E0115,Employee_115,25.0,Female,Samarkand,IT,2023-05-27,1.0,1959000,558000,,Active,High School
+E0116,Employee_116,59.0,Male,Nukus,Operations,2021-10-18,35.0,1028000,445000,89.6,Active,
+E0117,Employee_117,26.0,Female,Andijan,Support,,,1153000,437000,92.7,Pending,Bachelor
+E0118,Employee_118,47.0,Female,Namangan,Finance,,23.0,569000,568000,81.8,Pending,Master
+E0119,Employee_119,58.0,Female,Namangan,IT,2022-03-02,31.0,833000,366000,90.8,Active,Bachelor
+E0120,Employee_120,33.0,Male,Nukus,,2021-01-04,,1927000,325000,87.0,Pending,PhD
+E0121,Employee_121,50.0,Female,Khiva,Marketing,2024-06-07,24.0,1883000,109000,97.9,Inactive,
+E0122,Employee_122,21.0,Female,Tashkent,SALES,2023-01-04,0.0,1291000,359000,89.9,Inactive,PhD
+E0123,Employee_123,59.0,Male,Samarkand,,2021-04-01,39.0,2268000,,78.8,Inactive,
+E0124,Employee_124,45.0,Male,Tashkent,Sales,2022-06-20,21.0,2372000,263000,55.1,Active,Bachelor
+E0125,Employee_125,44.0,Male,Namangan,,2021-04-12,16.0,1434000,105000,84.7,Active,PhD
+E0126,Employee_126,28.0,Male,Fergana,Sales,2022-04-15,7.0,2359000,107000,89.9,Active,PhD
+E0127,Employee_127,22.0,Female,Andijan,Sales,2024-02-25,0.0,1337000,379000,79.5,Inactive,Master
+E0128,Employee_128,38.0,Male,Samarkand,Finance,2021-11-03,10.0,837000,621000,72.5,Pending,PhD
+E0129,Employee_129,49.0,Male,Bukhara,Finance,2023-09-06,27.0,2106000,0,67.6,Active,Master
+E0130,Employee_130,,Male,Namangan,Sales,2025-02-25,22.0,1772000,154000,64.0,Active,Bachelor
+E0131,Employee_131,45.0,Male,Nukus,Marketing,2023-08-14,24.0,1236000,400000,97.6,Pending,High School
+E0132,Employee_132,56.0,Female,,Operations,2022-07-21,,898000,348000,66.3,Pending,High School
+E0133,Employee_133,35.0,Male,Bukhara,HR,2024-11-13,8.0,1643000,,,Active,Master
+E0134,Employee_134,28.0,Female,Andijan,,2024-10-31,2.0,1014000,602000,83.5,Active,Master
+E0135,Employee_135,25.0,Male,Nukus,Operations,2023-08-29,3.0,1776000,293000,90.1,Active,Master
+E0136,Employee_136,,Male,Andijan,IT,2023-08-29,0.0,810000,274000,75.0,Active,Master
+E0137,Employee_137,47.0,Male,Tashkent,Sales,2024-10-20,26.0,1480000,323000,67.5,Inactive,PhD
+E0138,Employee_138,33.0,Female,Andijan,Sales,2021-07-04,10.0,2419000,553000,55.5,Pending,Master
+E0139,Employee_139,37.0,Male,Tashkent,IT,2021-07-12,10.0,1566000,421000,85.1,Pending,PhD
+E0140,Employee_140,52.0,Female,Andijan,Marketing,2024-11-04,26.0,627000,640000,83.7,Inactive,Master
+E0141,Employee_141,55.0,Male,Fergana,Finance,2023-04-05,34.0,1803000,663000,94.0,Pending,High School
+E0142,Employee_142,59.0,Female,Fergana,Sales,not_a_date,39.0,1467000,,93.2,Pending,Master
+E0143,Employee_143,37.0,Male,Namangan,HR,2021-09-07,16.0,997000,432000,64.9,Inactive,High School
+E0144,Employee_144,23.0,Male,Andijan,Support,2021-09-06,0.0,,,62.6,Pending,Master
+E0145,Employee_145,40.0,Female,Andijan,Sales,2022-01-03,14.0,1086000,432000,91.1,Inactive,PhD
+E0146,Employee_146,34.0,Female,Namangan,Operations,,,2012000,611000,80.2,Inactive,Bachelor
+E0147,Employee_147,42.0,Male,Samarkand,,2025-02-07,14.0,682000,199000,87.5,Active,
+E0148,Employee_148,35.0,Female,Tashkent,IT,2025-01-18,11.0,1774000,416000,75.5,Pending,Master
+E0149,Employee_149,26.0,,Fergana,Marketing,2024-11-22,6.0,1065000,475000,69.8,Pending,PhD
+E0150,Employee_150,41.0,Female,Samarkand,Support,2025-03-06,15.0,687000,122000,85.8,Active,Bachelor
+E0151,Employee_151,41.0,Female,Tashkent,Support,2022-05-22,16.0,, 45000 ,66.7,Inactive,Bachelor
+E0152,Employee_152,38.0,Male,Bukhara,IT,2024-03-04,11.0,1070000,470000,98.3,Inactive,PhD
+E0153,Employee_153,32.0,Female,Tashkent,Support,2021-01-17,6.0,2472000,95000,82.2,Pending,High School
+E0154,Employee_154,24.0,Male,Tashkent,Sales,,4.0,1966000,43000,82.6,Inactive,High School
+E0155,Employee_155,22.0,Male,Khiva,HR,2025-04-25,1.0,1408000,52000,63.7,,High School
+E0156,Employee_156,49.0,Female,Khiva,Support,2023-02-04,29.0,908000,37000,68.7,Pending,High School
+E0157,Employee_157,46.0,Male,Nukus,Sales,2023-05-12,25.0,2339000,,68.4,Active,High School
+E0158,Employee_158,22.0,Male,Namangan,Sales,2022-01-16,0.0,1547000,246000,96.7,Pending,Bachelor
+E0159,Employee_159,21.0,Female,Samarkand,Finance,2021-01-08,0.0,841000,399000,63.7,Inactive,High School
+E0160,Employee_160,43.0,Male,Samarkand,HR,2022-11-22,21.0,,605000,65.8,Inactive,PhD
+E0161,Employee_161,53.0,Female,Khiva,Sales,2021-03-28,32.0,2102000,153000,,Inactive,PhD
+E0162,Employee_162,32.0,Male,Andijan,HR,2024-05-21,10.0,917000,608000,92.3,Inactive,
+E0163,Employee_163,52.0,Male,Bukhara,Operations,2021-09-21,31.0,1548000,429000,60.4,Pending,High School
+E0164,Employee_164,52.0,,Nukus,IT,2022-08-22,32.0,1862000,412000,75.7,Pending,
+E0165,Employee_165,48.0,Male,Fergana,Finance,2021-04-26,,2482000,235000,90.9,Inactive,
+E0166,Employee_166,58.0,Male,Bukhara,IT,2022-10-11,,901000,260000,79.1,Active,PhD
+E0167,Employee_167,31.0,Female,Fergana,Operations,2024-11-01,5.0,1043000,229000,90.8,Active,Bachelor
+E0168,Employee_168,22.0,Male,Namangan,HR,2024-03-18,0.0,530000,540000,87.2,Pending,Bachelor
+E0169,Employee_169,39.0,Female,Tashkent,Operations,2021-02-25,17.0,1326000,167000,77.9,Pending,Master
+E0170,Employee_170,15.0,,Tashkent,IT,2021-04-01,25.0,2296000,662000,60.3,Active,Master
+E0171,Employee_171,50.0,Male,Nukus,,2021-09-04,22.0,611000,107000,65.3,Active,
+E0172,Employee_172,44.0,Female,Bukhara,Finance,2024-04-26,18.0,1993000,199000,98.4,Inactive,
+E0173,Employee_173,53.0,Male,Bukhara,Sales,2024-08-09,31.0,,602000,72.7,,Master
+E0174,Employee_174,24.0,Male,Fergana,Operations,2023-04-03,0.0,,20000,,Pending,PhD
+E0175,Employee_175,42.0,Female,Fergana,Operations,2024-05-16,19.0,1032000,226000,60.6,Inactive,
+E0176,Employee_176,25.0,Male,Fergana,HR,2021-03-11,2.0,2279000,370000,60.2,Pending,PhD
+E0177,Employee_177,51.0,Female,Andijan,HR,2021-05-26,30.0,2464000,660000,,Pending,Master
+E0178,Employee_178,47.0,Female,Tashkent,Operations,2021-05-29,22.0,1634000,375000,56.6,Active,Master
+E0179,Employee_179,34.0,Male,Bukhara,HR,2022-06-04,13.0,1292000,78000,56.8,Inactive,High School
+E0180,Employee_180,27.0,Male,Samarkand,IT,2021-11-17,2.0,2224000,162000,55.1,Pending,Bachelor
+E0181,Employee_181,37.0,Female,Samarkand,Marketing,2024-05-16,16.0,2154000,522000,98.4,Active,Bachelor
+E0182,Employee_182,53.0,Male,Nukus,Operations,2022-03-15,27.0,2010000,,57.9,Active,High School
+E0183,Employee_183,29.0,Female,Andijan,Finance,2025-01-14,7.0,858000,221000,85.9,Pending,PhD
+E0184,Employee_184,46.0,Male,Namangan,Operations,,26.0,1092000,12000,70.8,Inactive,Master
+E0185,Employee_185,30.0,Male,Bukhara,Marketing,2022-08-11,6.0,787000,457000,73.9,Pending,PhD
+E0186,Employee_186,37.0,Female,Samarkand,HR,2022-09-28,10.0,1327000,410000,56.7,Pending,Bachelor
+E0187,Employee_187,24.0,Female,Nukus,Finance,,0.0,1197000,21000,67.5,Active,PhD
+E0188,Employee_188,42.0,Female,Bukhara,Finance,2021-04-09,16.0,1042000,225000,65.0,Pending,PhD
+E0189,Employee_189,27.0,Female,Namangan,Finance,2023-08-10,7.0,1777000,614000,72.7,Pending,Master
+E0190,Employee_190,36.0,Male,Bukhara,Operations,2021-04-02,9.0,865000,27000,68.8,Inactive,PhD
+E0191,Employee_191,21.0,Female,Nukus,Sales,2024-10-20,0.0,1194000,398000,77.2,,Master
+E0192,Employee_192,24.0,Male,Fergana,HR,2024-01-24,0.0,,536000,62.7,Active,High School
+E0193,Employee_193,55.0,Female,Samarkand,Sales,2024-04-04,28.0,1339000,587000,69.6,Active,High School
+E0194,Employee_194,57.0,Male,Tashkent,HR,2025-05-14,29.0,1725000,511000,72.9,Pending,Bachelor
+E0195,Employee_195,21.0,Female,Bukhara,Marketing,2021-12-09,0.0,534000,89000,82.7,Pending,
+E0196,Employee_196,32.0,Female,,IT,2022-10-02,5.0,,146000,,Inactive,Bachelor
+E0197,Employee_197,,Female,Namangan,HR,2021-05-09,23.0,1059000,435000,96.1,Active,Bachelor
+E0198,Employee_198,48.0,,Samarkand,IT,2021-08-20,21.0,2349000,450000,74.7,Active,Master
+E0199,Employee_199,,Female,Khiva,HR,2022-03-19,15.0,1405000,657000,89.8,Pending,Master
+E0200,Employee_200,25.0,Male,Andijan,HR,2021-12-19,0.0,2385000,605000,80.3,Active,Bachelor
+E0201,Employee_201,48.0,Male,Bukhara,Finance,2025-02-02,22.0,1544000,426000,96.6,Active,Bachelor
+E0202,Employee_202,33.0,Female,Samarkand,IT,2023-12-14,12.0,852000,578000,67.0,,High School
+E0203,Employee_203,29.0,Female,,HR,2024-10-04,4.0,806000,630000,63.0,Inactive,PhD
+E0204,Employee_204,52.0,Female,Andijan,IT,2022-10-20,24.0,887000,480000,59.3,Inactive,Bachelor
+E0205,Employee_205,23.0,Male,Samarkand,IT,2023-05-31,0.0,2331000,264000,68.8,Inactive,Master
+E0206,Employee_206,23.0,Female,Nukus,Support,2023-04-22,0.0,2463000,369000,91.9,Active,High School
+E0207,Employee_207,38.0,Male,Tashkent,Sales,2023-07-28,10.0,1162000,118000,94.8,Active,Bachelor
+E0208,Employee_208,44.0,,,Finance,2021-05-12,18.0,587000,264000,,Pending,
+E0209,Employee_209,,Male,Nukus,Support,2024-06-01,16.0,632000,15000,58.1,Inactive,Master
+E0210,Employee_210,45.0,Female,Nukus,Support,2022-09-25,24.0,1250000,104000,98.7,Pending,Bachelor
+E0211,Employee_211,29.0,Female,Tashkent,Operations,2024-06-20,,601000,684000,62.6,Pending,Bachelor
+E0212,Employee_212,25.0,Male,Namangan,Marketing,2024-08-27,0.0,1813000,516000,82.5,Pending,Master
+E0213,Employee_213,,Male,,Support,2022-05-27,,866000,226000,76.4,Inactive,PhD
+E0214,Employee_214,41.0,Female,Bukhara,IT,2024-03-05,20.0,1355000,537000,69.4,Inactive,Master
+E0215,Employee_215,53.0,Male,Fergana,IT,2022-06-28,33.0,1182000,596000,66.8,Inactive,Master
+E0216,Employee_216,29.0,Female,Samarkand,Marketing,2023-06-15,4.0,,546000,67.0,Inactive,Bachelor
+E0217,Employee_217,22.0,Female,Nukus,Sales,2022-06-20,0.0,1317000,83000,64.5,Inactive,
+E0218,Employee_218,47.0,Male,Namangan,,2021-11-19,21.0,1821000,636000,180.0,Active,Bachelor
+E0219,Employee_219,50.0,Male,Khiva,IT,2021-06-02,,2389000,279000,64.8,Inactive,PhD
+E0220,Employee_220,45.0,,Samarkand,Marketing,2023-06-28,22.0,1879000,568000,77.8,Active,Master
+E0221,Employee_221,38.0,Male,Namangan,Sales,2025-02-26,17.0,1564000,441000,91.4,Inactive,Master
+E0222,Employee_222,35.0,Female,Namangan,Support,2023-05-17,14.0,2496000,276000,63.3,Inactive,High School
+E0223,Employee_223,24.0,Male,,HR,2023-11-13,0.0,2394000,358000,71.8,Pending,Master
+E0224,Employee_224,,Male,Tashkent,HR,2024-11-29,19.0,1106000,79000,62.5,Pending,Master
+E0225,Employee_225,42.0,Male,Bukhara,,2024-01-28,20.0,1870000,340000,91.2,Inactive,PhD
+E0226,Employee_226,60.0,Female,Khiva,Marketing,,33.0,1594000,65000,91.6,Inactive,PhD
+E0227,Employee_227,28.0,Female,Nukus,Finance,2025-05-03,1.0,,469000,78.8,Inactive,PhD
+E0228,Employee_228,21.0,Male,Fergana,Finance,2023-05-29,0.0,1236000,298000,83.2,Active,PhD
+E0229,Employee_229,42.0,Female,Namangan,Marketing,2023-10-26,19.0,642000,401000,94.3,Inactive,High School
+E0230,Employee_230,49.0,Female,,Operations,2023-09-29,25.0,1566000,204000,72.9,Active,
+E0231,Employee_231,25.0,Male,Andijan,Operations,2021-01-27,4.0,1407000,174000,,Inactive,PhD
+E0232,Employee_232,23.0,Female,Khiva,Marketing,2022-11-29,0.0,1587000,43000,75.9,Inactive,
+E0233,Employee_233,51.0,Female,Bukhara,Marketing,2022-12-24,30.0,560000,113000,98.0,Active,Bachelor
+E0234,Employee_234,49.0,Female,Nukus,Operations,2021-10-15,28.0,2454000,493000,93.4,Active,Master
+E0235,Employee_235,41.0,,Khiva,HR,2022-03-10,20.0,742000,332000,80.3,,PhD
+E0236,Employee_236,40.0,Male,Bukhara,HR,2023-09-12,,654000,314000,97.8,Active,Bachelor
+E0237,Employee_237,38.0,Female,Khiva,Sales,2025-03-29,13.0,778000,563000,94.2,Active,Bachelor
+E0238,Employee_238,49.0,Male,Fergana,IT,2025-01-31,25.0,1015000,13000,68.0,Active,Bachelor
+E0239,Employee_239,34.0,Male,Nukus,Marketing,2022-09-26,13.0,2458000,,91.5,Active,Bachelor
+E0240,Employee_240,27.0,,Namangan,Operations,2023-11-10,3.0,1924000,631000,97.5,Inactive,High School
+E0241,Employee_241,41.0,Female,Samarkand,HR,2025-05-20,13.0,1282000,404000,62.4,Inactive,Bachelor
+E0242,Employee_242,,,Fergana,HR,2021-02-18,18.0,1309000,377000,94.1,Inactive,Master
+E0243,Employee_243,36.0,Male,Khiva,Operations,2024-01-14,11.0,2340000,,95.5,Active,High School
+E0244,Employee_244,44.0,Female,Fergana,Sales,2024-12-29,22.0,1604000,407000,70.6,Inactive,Master
+E0245,Employee_245,53.0,Male,Khiva,Sales,2021-07-11,30.0,604000,18000,98.1,Inactive,PhD
+E0246,Employee_246,44.0,Male,Namangan,Marketing,2022-11-01,19.0,1420000,182000,85.9,Pending,
+E0247,Employee_247,31.0,Male,,HR,2021-04-09,9.0,,351000,66.3,Active,Master
+E0248,Employee_248,21.0,Male,Fergana,Sales,2022-03-04,0.0,2230000,606000,86.6,Pending,Bachelor
+E0249,Employee_249,49.0,Female,Andijan,,2021-10-20,24.0,1165000,238000,93.4,Inactive,Master
+E0250,Employee_250,38.0,,Nukus,Marketing,2023-10-18,14.0,1854000,358000,58.5,Pending,Bachelor
+E0251,Employee_251,59.0,Male,Andijan,Support,2025-02-15,37.0,,553000,58.8,Inactive,High School
+E0252,Employee_252,33.0,,Khiva,IT,2024-07-18,5.0,1407000,216000,55.5,Active,PhD
+E0253,Employee_253,,Male,Nukus,Support,2023-11-12,0.0,1511000,534000,,Active,Bachelor
+E0254,Employee_254,51.0,Male,Nukus,Finance,2025-05-07,25.0,733000,148000,70.0,Inactive,
+E0255,Employee_255,23.0,Male,Fergana,HR,2023-07-20,0.0,893000,27000,77.0,Inactive,PhD
+E0256,Employee_256,29.0,Female,Namangan,HR,2022-04-09,3.0,1060000,284000,,Inactive,High School
+E0257,Employee_257,34.0,Male,Khiva,HR,2022-07-01,13.0,593000,,85.5,Inactive,High School
+E0258,Employee_258,29.0,Male,Samarkand,Finance,2022-07-19,7.0,1187000,104000,97.4,Pending,Master
+E0259,Employee_259,46.0,Male,Fergana,Sales,2023-09-19,19.0,2017000,367000,84.1,Inactive,High School
+E0260,Employee_260,53.0,Male,Bukhara,Marketing,2023-12-11,28.0,1604000,,88.9,Pending,High School
+E0261,Employee_261,51.0,Male,Khiva,IT,2023-07-05,31.0,1734000,97000,64.8,Inactive,High School
+E0262,Employee_262,24.0,Female,Fergana,,2023-03-08,3.0,1308000,609000,71.6,Inactive,PhD
+E0263,Employee_263,49.0,Male,Khiva,Support,2024-05-02,21.0,,511000,74.0,Inactive,PhD
+E0264,Employee_264,24.0,Male,Fergana,SALES,2024-12-11,1.0,2359000,296000,93.8,Pending,PhD
+E0265,Employee_265,45.0,Male,Khiva,IT,2024-12-10,,869000,446000,84.6,Inactive,PhD
+E0266,Employee_266,27.0,Male,Andijan,Support,2022-07-24,2.0,,504000,75.9,Active,PhD
+E0267,Employee_267,35.0,Male,Tashkent,Operations,2022-08-03,9.0,2454000,685000,72.1,Inactive,Master
+E0268,Employee_268,,Male,Andijan,Sales,2023-03-19,0.0,2401000,94000,60.3,Inactive,Bachelor
+E0269,Employee_269,41.0,Female,Samarkand,IT,2021-04-18,17.0,515000,683000,87.7,,Bachelor
+E0270,Employee_270,47.0,Female,Namangan,Support,2021-07-31,19.0,1485000,,75.6,Pending,
+E0271,Employee_271,26.0,Female,Samarkand,Operations,2024-08-15,,972000,429000,88.3,Active,PhD
+E0272,Employee_272,31.0,,Nukus,Sales,2024-11-04,6.0,1216000,644000,69.2,Inactive,Master
+E0273,Employee_273,52.0,Male,Samarkand,HR,2025-03-22,30.0,1991000,425000,91.8,Active,Bachelor
+E0274,Employee_274,45.0,Female,Khiva,Support,,23.0,1406000,611000,75.3,Inactive,PhD
+E0275,Employee_275,,Female,Andijan,Sales,2023-05-25,33.0,648000,386000,81.1,Inactive,Master
+E0276,Employee_276,57.0,Male,Andijan,,2024-01-24,36.0,,524000,84.6,Pending,PhD
+E0277,Employee_277,50.0,Male,Namangan,IT,2024-03-05,26.0,1751000,384000,93.8,Pending,High School
+E0278,Employee_278,37.0,Male,,Operations,2021-04-03,10.0,733000,564000,68.7,Pending,Bachelor
+E0279,Employee_279,85.0,Female,Andijan,Marketing,2023-04-23,34.0,2429000,367000,97.7,Inactive,Master
+E0280,Employee_280,21.0,,Tashkent,Finance,2022-09-01,0.0,1216000,171000,59.4,Inactive,Bachelor
+E0281,Employee_281,48.0,Male,Namangan,Finance,2024-01-01,23.0,941000,356000,59.9,Active,PhD
+E0282,Employee_282,26.0,Female,Samarkand,Finance,2023-04-18,3.0,1484000,345000,56.9,Active,Bachelor
+E0283,Employee_283,32.0,Female,Tashkent,Finance,2023-03-09,8.0,1660000,,60.1,Pending,PhD
+E0284,Employee_284,42.0,Female,Nukus,HR,2022-09-02,18.0,1673000,689000,92.1,Active,Bachelor
+E0285,Employee_285,42.0,Female,Samarkand,Marketing,2024-08-15,22.0,1787000,263000,97.9,Inactive,PhD
+E0286,Employee_286,,Female,Bukhara,Operations,2021-03-31,,1087000,212000,79.4,Active,PhD
+E0287,Employee_287,33.0,,Fergana,HR,2024-01-21,8.0,1288000,527000,95.8,Active,High School
+E0288,Employee_288,53.0,Male,Namangan,Finance,2022-06-20,32.0,614000,241000,95.3,Pending,PhD
+E0289,Employee_289,33.0,Female,Khiva,IT,2023-01-21,13.0,567000,360000,56.9,,Master
+E0290,Employee_290,55.0,Male,Tashkent,Marketing,2023-11-04,28.0,1611000,84000,56.6,Active,High School
+E0291,Employee_291,33.0,Male,Tashkent,finance ,2021-10-03,11.0,564000,626000,96.4,Inactive,Master
+E0292,Employee_292,52.0,Female,,Operations,2023-10-20,31.0,758000,241000,76.9,Pending,PhD
+E0293,Employee_293,,Male,Andijan,Sales,2024-08-17,12.0,1911000,273000,70.5,,High School
+E0294,Employee_294,56.0,Male,Khiva,Finance,2023-12-20,35.0,1038000,319000,93.4,Active,High School
+E0295,Employee_295,31.0,Female,Fergana,Finance,2021-07-06,10.0,874000,641000,57.2,,Bachelor
+E0296,Employee_296,41.0,Male,Bukhara,Marketing,2021-01-21,16.0,2377000,578000,82.8,Active,Master
+E0297,Employee_297,52.0,Female,Fergana,Sales,2021-02-13,32.0,683000,257000,73.0,Active,PhD
+E0298,Employee_298,29.0,Male,Samarkand,IT,2022-12-29,5.0,1674000,91000,63.9,Pending,PhD
+E0299,Employee_299,32.0,,Andijan,Support,2024-09-11,12.0,924000,172000,89.7,Active,PhD
+E0300,Employee_300,45.0,Female,Samarkand,Sales,2021-07-20,22.0,917000,592000,61.1,Active,Bachelor
+E0301,Employee_301,39.0,,Namangan,HR,2024-03-11,17.0,25000000,308000,62.0,Active,Bachelor
+E0302,Employee_302,51.0,Male,Nukus,Finance,,24.0,813000,106000,55.6,Pending,PhD
+E0303,Employee_303,60.0,Female,Nukus,,2021-09-07,35.0,896000,54000,81.3,Active,
+E0304,Employee_304,26.0,Male,Nukus,IT,2025-04-28,5.0,1341000,521000,76.4,Active,High School
+E0305,Employee_305,41.0,Female,Samarkand,Sales,2024-12-16,15.0,1444000,187000,59.7,Active,High School
+E0306,Employee_306,,Female,Namangan,Support,2025-05-20,2.0,1627000,271000,180.0,Active,Master
+E0307,Employee_307,24.0,Male,Andijan,Support,2023-09-28,0.0,2090000,193000,67.1,Pending,Master
+E0308,Employee_308,58.0,Male,Tashkent,Finance,2022-03-28,34.0,2414000,638000,57.8,Active,High School
+E0309,Employee_309,51.0,Male,Tashkent,Operations,2022-06-23,23.0,1036000,602000,90.1,Inactive,High School
+E0310,Employee_310,39.0,Male,Nukus,Support,2025-04-19,18.0,2499000,536000,56.0,Active,High School
+E0311,Employee_311,27.0,Male,Namangan,Finance,2024-03-05,1.0,1146000,147000,57.6,Review,Master
+E0312,Employee_312,21.0,Female,Namangan,Sales,2021-11-14,0.0,1137000,33000,88.0,Former,Bachelor
+E0313,Employee_313,58.0,Male,Andijan,Finance,2022-09-05,31.0,2211000,464000,56.0,Inactive,PhD
+E0314,Employee_314,24.0,Female,Nukus,HR,2021-10-26,4.0,729000,98000,55.9,Active,PhD
+E0315,Employee_315,21.0,Male,Tashkent,Sales,2021-01-25,,1205000,220000,76.9,Inactive,Bachelor
+E0316,Employee_316,,Female,Namangan,Marketing,2023-09-09,1.0,,134000,68.3,,Master
+E0317,Employee_317,,Male,Andijan,Marketing,2023-02-06,7.0,1837000,90000,89.6,Active,High School
+E0318,Employee_318,30.0,Male,Fergana,Marketing,2024-11-14,4.0,1048000,274000,56.7,Inactive,Bachelor
+E0319,Employee_319,23.0,Male,Andijan,HR,2023-03-19,0.0,2258000,402000,88.8,,PhD
+E0320,Employee_320,43.0,Female,Samarkand,Finance,,17.0,1862000,688000,85.9,Pending,Master
+E0321,Employee_321,70.0,Male,Khiva,Operations,2023-05-17,16.0,2389000,130000,59.9,Inactive,Bachelor
+E0322,Employee_322,41.0,Male,Tashkent,Sales,2024-12-09,14.0,1162000,374000,98.3,Pending,Bachelor
+E0323,Employee_323,34.0,Female,Bukhara,Marketing,2021-03-18,10.0,1255000,,80.3,Inactive,Master
+E0324,Employee_324,52.0,Female,Namangan,Operations,2021-03-29,25.0,1411000,,96.7,Active,Master
+E0325,Employee_325,,Female,Namangan,Support,2021-09-09,17.0,1550000,105000,70.0,Pending,High School
+E0326,Employee_326,,Male,Bukhara,HR,2021-03-14,9.0,1991000,36000,75.7,Pending,High School
+E0327,Employee_327,42.0,Male,Fergana,Operations,2023-12-18,16.0,1787000,636000,92.5,Active,Master
+E0328,Employee_328,39.0,Female,Khiva,HR,2023-01-23,13.0,2194000,154000,84.5,Active,Bachelor
+E0329,Employee_329,44.0,,Khiva,Finance,2021-04-18,23.0,,,88.4,Inactive,High School
+E0330,Employee_330,30.0,Male,Andijan,HR,2022-11-23,4.0,1175000,91000,87.8,Pending,PhD
+E0331,Employee_331,59.0,Female,Bukhara,HR,2024-03-22,33.0,1230000,198000,77.8,Inactive,PhD
+E0332,Employee_332,42.0,Male,Khiva,IT,2023-12-01,14.0,2015000,220000,67.6,Inactive,PhD
+E0333,Employee_333,34.0,Male,Bukhara,HR,2021-03-28,10.0,1703000,,93.2,Inactive,Bachelor
+E0334,Employee_334,59.0,Male,Khiva,Marketing,2025-02-04,33.0,2256000,695000,58.3,Inactive,PhD
+E0335,Employee_335,23.0,Female,Khiva,Marketing,2021-06-06,0.0,844000,263000,82.4,Inactive,Master
+E0336,Employee_336,31.0,Male,Nukus,Marketing,2024-08-14,9.0,2080000,543000,69.6,Pending,Bachelor
+E0337,Employee_337,32.0,Male,Samarkand,Sales,2025-01-11,10.0,2295000,386000,82.4,Pending,Master
+E0338,Employee_338,25.0,Female,,Operations,2021-07-25,0.0,1692000,11000,86.6,Inactive,Bachelor
+E0339,Employee_339,47.0,Female,Samarkand,HR,2021-06-20,25.0,684000,276000,,Inactive,
+E0340,Employee_340,60.0,Female,Fergana,HR,2024-11-28,35.0,1947000,584000,71.8,Active,Master
+E0341,Employee_341,38.0,Female,Namangan,Support,2022-10-27,10.0,1710000,331000,92.7,Active,Bachelor
+E0342,Employee_342,56.0,Male,Nukus,Marketing,2022-03-26,30.0,704000,422000,84.6,Pending,PhD
+E0343,Employee_343,,Male,Khiva,Operations,2025-01-23,21.0,1992000,606000,86.6,Active,Bachelor
+E0344,Employee_344,36.0,Female,Andijan,Finance,,,1652000,254000,72.1,Pending,PhD
+E0345,Employee_345,55.0,Female,Andijan,Support,2024-12-19,35.0,603000,,68.7,Inactive,PhD
+E0346,Employee_346,53.0,Male,Samarkand,HR,2022-09-30,28.0,802000,399000,92.0,Active,PhD
+E0347,Employee_347,38.0,Male,Tashkent,Sales,2024-09-16,17.0,1762000,489000,58.8,Inactive,Bachelor
+E0348,Employee_348,57.0,Male,Namangan,Support,2022-07-10,37.0,588000,479000,69.3,Active,
+E0349,Employee_349,57.0,,Namangan,Sales,2021-02-28,35.0,2329000,291000,58.9,Inactive,PhD
+E0350,Employee_350,39.0,Female, Tashkent ,Finance,2025-03-28,15.0,1082000,684000,98.0,Active,PhD
+E0351,Employee_351,46.0,Male,Namangan,finance ,2022-07-07,19.0,2171000,7000000,,Active,High School
+E0352,Employee_352,41.0,Female,Namangan,Sales,2022-07-10,18.0,2412000,7000,61.7,Pending,Bachelor
+E0353,Employee_353,27.0,Female,,IT,2021-06-23,0.0,1803000,288000,55.5,Pending,Bachelor
+E0354,Employee_354,,,Tashkent,Sales,,17.0,,,66.9,Pending,High School
+E0355,Employee_355,41.0,Female,Namangan,Marketing,2021-09-30,,1907000,347000,76.0,,Master
+E0356,Employee_356,32.0,Female,Namangan,Sales,2021-04-13,6.0,1471000,115000,79.5,Pending,PhD
+E0357,Employee_357,44.0,,Namangan,Marketing,2023-11-28,18.0,1696000,27000,65.0,Pending,High School
+E0358,Employee_358,52.0,Female,Namangan,Finance,2024-05-13,27.0,688000,41000,55.9,Inactive,PhD
+E0359,Employee_359,,Male,Nukus,,2022-11-16,31.0,2394000,689000,85.6,Active,Master
+E0360,Employee_360,27.0,Female,Andijan,Marketing,2023-12-07,4.0,789000,472000,78.0,Active,Bachelor
+E0361,Employee_361,46.0,Female,Tashkent,IT,2024-06-12,23.0,1053000,467000,72.9,Active,High School
+E0362,Employee_362,53.0,Male,Namangan,Operations,2022-06-13,27.0,2020000,,98.2,Active,Master
+E0363,Employee_363,50.0,Male,Andijan,HR,2025-04-03,,998000,534000,97.3,Inactive,High School
+E0364,Employee_364,60.0,Male,Andijan,Support,2023-04-20,32.0,966000,272000,90.3,Active,
+E0365,Employee_365,,,Andijan,Operations,2021-06-20,,1472000,167000,95.3,Pending,Bachelor
+E0366,Employee_366,54.0,Female,Khiva,Sales,2024-06-10,28.0,2180000,654000,82.6,,PhD
+E0367,Employee_367,29.0,Female,Nukus,IT,2022-06-26,,575000,375000,76.5,Active,High School
+E0368,Employee_368,42.0,Male,Bukhara,HR,06/06/2024,22.0,,234000,82.3,Pending,High School
+E0369,Employee_369,34.0,Male,Nukus,Finance,,13.0,1523000,40000,88.4,Inactive,PhD
+E0370,Employee_370,57.0,Male,Namangan,Marketing,2021-08-01,31.0,1858000,427000,79.2,Pending,Master
+E0371,Employee_371,60.0,Male,Tashkent,IT,2021-01-08,37.0,1021000,691000,62.7,Active,Master
+E0372,Employee_372,25.0,Female,Bukhara,Marketing,2022-09-12,0.0,1424000,689000,86.0,Pending,Master
+E0373,Employee_373,34.0,Female,Khiva,Marketing,2023-05-14,13.0,846000,73000,89.9,Active,PhD
+E0374,Employee_374,51.0,Female,Namangan,Finance,2021-12-25,31.0,689000,87000,76.6,Inactive,High School
+E0375,Employee_375,32.0,Male,,HR,2021-12-13,10.0,1267000,501000,82.5,Inactive,Bachelor
+E0376,Employee_376,53.0,Female,Nukus,IT,2021-07-10,29.0,2219000,101000,94.8,Pending,PhD
+E0377,Employee_377,55.0,Male,Bukhara,HR,2021-02-22,35.0,1828000,683000,94.3,Active,Master
+E0378,Employee_378,47.0,Female,Namangan,,2022-10-06,22.0,506000,322000,66.4,Inactive,Bachelor
+E0379,Employee_379,32.0,Male,Bukhara,Marketing,2021-07-13,12.0,734000,308000,83.4,Inactive,Bachelor
+E0380,Employee_380,26.0,Female,Andijan,Operations,2021-11-25,2.0,1070000,325000,,Pending,Bachelor
+E0381,Employee_381,54.0,Male,Andijan,Finance,2024-12-14,32.0,,647000,87.5,,Master
+E0382,Employee_382,44.0,Male,Bukhara,HR,2023-10-25,24.0,2209000,84000,62.7,Pending,Master
+E0383,Employee_383,56.0,Female,Fergana,Operations,2024-04-18,36.0,25000000,,64.3,Pending,Master
+E0384,Employee_384,35.0,Male,Nukus,IT,2021-11-26,15.0,2048000,195000,70.1,Pending,
+E0385,Employee_385,58.0,Female,Andijan,HR,2023-06-24,38.0,2097000,,68.5,Pending,Bachelor
+E0386,Employee_386,58.0,Female,Namangan,Operations,2024-05-16,38.0,1540000,317000,,Inactive,High School
+E0387,Employee_387,34.0,Male,Fergana,IT,2025-01-03,12.0,525000,455000,73.9,Inactive,High School
+E0388,Employee_388,54.0,Male,Khiva,Operations,2022-08-29,,1660000,422000,94.2,Pending,Master
+E0389,Employee_389,38.0,Female,Nukus,IT,2021-03-20,17.0,1763000,290000,71.7,Active,PhD
+E0390,Employee_390,26.0,Female,Samarkand,Operations,2023-10-25,0.0,896000,356000,65.6,Inactive,Master
+E0391,Employee_391,28.0,Female,Tashkent,HR,2024-03-26,7.0,2415000,345000,57.3,,Bachelor
+E0392,Employee_392,27.0,Female,Nukus,Support,2022-03-10,6.0,721000,267000,70.5,Pending,PhD
+E0393,Employee_393,55.0,Male,Andijan,Sales,2021-07-23,34.0,1390000,299000,74.6,Pending,PhD
+E0394,Employee_394,37.0,Female,Namangan,IT,,,838000,,85.9,Inactive,Master
+E0395,Employee_395,36.0,Female,Bukhara,Operations,2024-07-16,9.0,,339000,55.5,Active,High School
+E0396,Employee_396,57.0,Male,Bukhara,Support,2022-02-25,36.0,1135000,103000,60.8,Inactive,High School
+E0397,Employee_397,51.0,Female,Andijan,HR,2021-05-26,23.0,,671000,61.7,Pending,PhD
+E0398,Employee_398,50.0,Male,Khiva,Operations,2024-02-16,24.0,2031000,318000,,Inactive,High School
+E0399,Employee_399,40.0,Female,Samarkand,Support,2022-05-21,18.0,547000,510000,92.5,Inactive,Master
+E0400,Employee_400,52.0,Female,Fergana,Support,2022-10-19,,1539000,,98.3,Inactive,PhD
+E0401,Employee_401,45.0,Male,,,2023-06-18,22.0,1070000,268000,77.3,Pending,Bachelor
+E0402,Employee_402,35.0,Female,Andijan,Operations,2024-03-13,10.0,2073000,687000,86.7,Inactive,Master
+E0403,Employee_403,48.0,Male,Namangan,Support,2022-08-07,24.0,1074000,200000,63.9,Active,High School
+E0404,Employee_404,80.0,Female,Andijan,Operations,2022-05-18,0.0,1703000,313000,92.6,Inactive,PhD
+E0405,Employee_405,,,Andijan,Finance,2024-08-21,11.0,2410000,483000,60.4,Active,PhD
+E0406,Employee_406,33.0,Male,Fergana,Finance,2021-01-04,13.0,1934000,316000,71.7,Pending,
+E0407,Employee_407,41.0,Female,Andijan,IT,2021-06-20,16.0,2100000,202000,87.7,Inactive,Bachelor
+E0408,Employee_408,40.0,Male,Samarkand,Support,2023-06-13,20.0,1568000,544000,95.6,Inactive,Master
+E0409,Employee_409,51.0,Female,Fergana,Operations,2023-08-23,30.0,2266000,143000,83.1,Active,Bachelor
+E0410,Employee_410,23.0,Female,Nukus,Sales,2021-08-23,1.0,2327000,131000,88.8,Active,Bachelor
+E0411,Employee_411,36.0,,Andijan,Support,2024-01-28,,2414000,327000,89.6,Inactive,Master
+E0412,Employee_412,28.0,Female,Andijan,HR,2024-03-25,,1344000,681000,71.4,Inactive,Bachelor
+E0413,Employee_413,35.0,Female,,Support,2023-06-08,14.0,1639000,313000,88.1,Pending,Master
+E0414,Employee_414,38.0,Male,Samarkand,Marketing,2021-12-04,17.0,1180000,531000,91.3,Active,PhD
+E0415,Employee_415,52.0,Female,Bukhara,IT,2022-04-04,25.0,738000,,75.4,,Master
+E0416,Employee_416,35.0,Female,,Sales,2024-05-01,12.0,,264000,70.2,Inactive,Bachelor
+E0417,Employee_417,,Female,Tashkent,HR,2022-02-05,25.0,1155000,626000,61.0,Pending,Bachelor
+E0418,Employee_418,42.0,Male,Nukus,HR,2021-11-18,14.0,907000,558000,92.4,Inactive,Bachelor
+E0419,Employee_419,48.0,Male,Namangan,HR,2023-11-16,24.0,1905000,388000,68.6,Pending,PhD
+E0420,Employee_420,36.0,Male,Bukhara,HR,2022-04-13,8.0,885000,,73.6,Pending,Bachelor
+E0421,Employee_421,23.0,Female,Samarkand,IT,2025-01-31,3.0,1902000,157000,81.8,Inactive,PhD
+E0422,Employee_422,44.0,Male,Andijan,Finance,2023-12-11,24.0,1925000,300000,62.3,,Master
+E0423,Employee_423,51.0,Female,Samarkand,Sales,2024-04-16,28.0,1709000,146000,,Active,High School
+E0424,Employee_424,49.0,Female,Fergana,Marketing,2024-09-08,28.0,2127000,342000,94.1,Pending,
+E0425,Employee_425,23.0,Female,bukhara ,IT,2022-12-31,0.0,525000,690000,73.0,,Master
+E0426,Employee_426,47.0,Male,Khiva,hr,2021-03-03,19.0,1363000,242000,86.6,Pending,Master
+E0427,Employee_427,34.0,Male,Andijan,IT,2022-11-14,6.0,673000,12000,71.0,Active,PhD
+E0428,Employee_428,36.0,Male,Namangan,Marketing,2021-04-04,15.0,945000,,92.7,Active,Bachelor
+E0429,Employee_429,60.0,Female,Khiva,Finance,2023-09-24,34.0,2073000,27000,63.3,Active,Bachelor
+E0430,Employee_430,44.0,Female,Tashkent,HR,2023-08-18,19.0,2225000,510000,78.7,Pending,Master
+E0431,Employee_431,30.0,Female,Andijan,Operations,04/09/2024,6.0,2015000,88000,64.1,Inactive,High School
+E0432,Employee_432,50.0,,Namangan,Sales,2024-07-17,22.0,2348000,192000,68.0,Inactive,
+E0433,Employee_433,53.0,Female,,IT,2023-05-31,31.0,1404000,516000,85.1,Active,
+E0434,Employee_434,49.0,Male,Bukhara,IT,,26.0,1488000,268000,55.9,Active,Master
+E0435,Employee_435,39.0,Male,Samarkand,HR,2024-07-10,19.0,1941000,652000,76.9,Pending,PhD
+E0436,Employee_436,25.0,Female,Tashkent,Sales,2022-08-09,0.0,2099000,24000,97.6,Inactive,High School
+E0437,Employee_437,27.0,Male,Samarkand,IT,2022-09-29,0.0,1336000,342000,98.1,,Master
+E0438,Employee_438,42.0,Female,,Sales,2021-12-03,17.0,797000,678000,94.2,Inactive,Bachelor
+E0439,Employee_439,50.0,Female,Namangan,Marketing,2025-03-12,30.0,2069000,548000,65.7,Pending,Bachelor
+E0440,Employee_440,41.0,Female,Namangan,Operations,2024-01-20,14.0,2493000,186000,82.6,Inactive,High School
+E0441,Employee_441,31.0,Male,Namangan,IT,2025-05-01,5.0,1180000,311000,65.8,Pending,High School
+E0442,Employee_442,44.0,Female,Namangan,Operations,2023-01-30,17.0,2438000,395000,57.6,Active,PhD
+E0443,Employee_443,43.0,Female,Namangan,Finance,2023-07-16,22.0,1217000,73000,80.1,Active,PhD
+E0444,Employee_444,54.0,Male,Bukhara,HR,2023-08-02,29.0,1896000,582000,96.2,Pending,PhD
+E0445,Employee_445,43.0,Female,Tashkent,,2024-05-12,22.0,1857000,553000,88.7,Left,PhD
+E0446,Employee_446,35.0,Male,Nukus,IT,2021-12-13,7.0,1438000,246000,84.2,Active,Master
+E0447,Employee_447,28.0,Male,Bukhara,Operations,2022-03-23,6.0,1954000,365000,69.6,Active,Bachelor
+E0448,Employee_448,52.0,Female,Nukus,Finance,2024-03-16,25.0,1868000,455000,80.6,Inactive,Master
+E0449,Employee_449,50.0,Female,Khiva,HR,2022-08-26,28.0,833000,697000,89.3,Active,PhD
+E0450,Employee_450,52.0,Male,Bukhara,Operations,2023-11-25,32.0,637000,132000,92.0,Pending,Bachelor
+E0451,Employee_451,33.0,Female,,IT,2025-03-05,8.0,714000,452000,76.2,Pending,PhD
+E0452,Employee_452,22.0,Female,Fergana,Marketing,2022-11-06,2.0,670000,541000,70.4,Pending,High School
+E0453,Employee_453,28.0,Female,Andijan,Sales,2025-01-25,7.0,1792000,65000,85.9,Pending,Master
+E0454,Employee_454,27.0,Female,Samarkand,,2022-04-28,6.0,939000,41000,71.5,Pending,PhD
+E0455,Employee_455,46.0,Female,Bukhara,Support,2023-01-23,25.0,,53000,97.7,Active,Bachelor
+E0456,Employee_456,41.0,Male,Tashkent,HR,2022-08-03,16.0,661000,190000,85.1,Active,Bachelor
+E0457,Employee_457,29.0,Female,Namangan,Sales,2022-05-26,4.0,2091000,487000,57.1,Inactive,Master
+E0458,Employee_458,49.0,Male,Nukus,,2021-02-02,21.0,1958000,486000,63.0,Inactive,Bachelor
+E0459,Employee_459,58.0,Male,Fergana,Sales,2022-02-25,31.0,928000,241000,58.6,,Bachelor
+E0460,Employee_460,21.0,Female,Fergana,Marketing,2022-07-10,0.0,2337000,364000,76.5,Pending,Master
+E0461,Employee_461,52.0,Male,Nukus,Finance,2022-07-04,32.0,1804000,391000,76.3,Inactive,Master
+E0462,Employee_462,55.0,Female,Fergana,Operations,2021-08-17,35.0,596000,202000,68.6,Pending,Bachelor
+E0463,Employee_463,44.0,Female,Samarkand,Finance,2025-01-23,18.0,1816000,611000,96.7,Inactive,High School
+E0464,Employee_464,50.0,Male,Namangan,HR,2025-01-02,25.0,1406000,176000,60.4,Pending,PhD
+E0465,Employee_465,46.0,Male,Fergana,Finance,2025-01-24,19.0,,337000,64.0,Active,Bachelor
+E0466,Employee_466,40.0,Female,Fergana,Support,2021-03-23,13.0,849000,529000,57.8,Active,Bachelor
+E0467,Employee_467,59.0,Female,Andijan,Finance,2024-03-29,32.0,811000,258000,83.0,Inactive,PhD
+E0468,Employee_468,49.0,Female,Bukhara,Finance,2022-05-01,21.0,1811000,320000,64.5,Inactive,Bachelor
+E0469,Employee_469,58.0,Male,Tashkent,HR,,36.0,779000,435000,87.2,Pending,Master
+E0470,Employee_470,52.0,Female,Andijan,Marketing,2021-07-05,32.0,1129000,206000,70.5,Active,High School
+E0471,Employee_471,21.0,Male,Nukus,Sales,2024-01-21,0.0,1792000,82000,85.5,Active,PhD
+E0472,Employee_472,43.0,Male,Tashkent,Marketing,2025-03-06,20.0,1892000,27000,96.4,Pending,PhD
+E0473,Employee_473,,Female,Andijan,Operations,2022-08-29,8.0,699000,374000,61.5,Pending,Master
+E0474,Employee_474,36.0,Female,Tashkent,Finance,2021-12-15,15.0,2073000,566000,57.7,Active,PhD
+E0475,Employee_475,29.0,Female,Khiva,Support,2022-07-16,,1313000,97000,74.3,Inactive,Bachelor
+E0476,Employee_476,44.0,Female,Namangan,Support,2025-04-03,24.0,1367000,98000,,Active,High School
+E0477,Employee_477,41.0,Male,Samarkand,Operations,2025-05-16,14.0,1499000,385000,93.3,Inactive,Master
+E0478,Employee_478,,Female,Fergana,IT,2024-09-23,5.0,2259000,,61.8,,Bachelor
+E0479,Employee_479,52.0,Male,Khiva,Finance,2024-01-14,27.0,768000,,80.2,Inactive,PhD
+E0480,Employee_480,56.0,Male,Tashkent,IT,2021-09-19,28.0,1026000,156000,,Active,Master
+E0481,Employee_481,38.0,Male,Bukhara,IT,2022-11-23,11.0,719000,698000,58.3,Pending,PhD
+E0482,Employee_482,45.0,Female,Namangan,Operations,,25.0,1410000,205000,92.0,Active,High School
+E0483,Employee_483,21.0,Male,Bukhara,HR,2021-10-27,0.0,593000,564000,64.0,Active,PhD
+E0484,Employee_484,51.0,Female,Tashkent,Sales,2025-04-12,,,663000,67.2,Pending,PhD
+E0485,Employee_485,41.0,Female,Tashkent,Sales,2024-01-16,14.0,545000,169000,91.5,Pending,Master
+E0486,Employee_486,58.0,Female,Fergana,Sales ,2025-03-28,36.0,,232000,87.3,Inactive,Bachelor
+E0487,Employee_487,24.0,Female,Bukhara,Marketing,,0.0,556000,70000,72.2,Inactive,High School
+E0488,Employee_488,43.0,Female,Tashkent,Marketing,2021-04-12,21.0,2481000,331000,74.0,Inactive,Bachelor
+E0489,Employee_489,42.0,Female,Andijan,Support,2024-04-21,18.0,2093000,123000,,,Master
+E0490,Employee_490,56.0,Male,Bukhara,HR,2021-05-18,33.0,1470000,82000,97.2,Pending,
+E0491,Employee_491,22.0,Female,Fergana,IT,2022-01-11,0.0,,105000,98.6,,Master
+E0492,Employee_492,32.0,Female,,Finance,2023-08-03,6.0,1387000,29000,96.4,Active,High School
+E0493,Employee_493,25.0,Male,Khiva,IT,2022-05-30,2.0,771000,324000,87.6,Pending,High School
+E0494,Employee_494,37.0,Female,Bukhara,Operations,2025-04-08,10.0,1993000,528000,65.3,Inactive,PhD
+E0495,Employee_495,49.0,Female,Tashkent,Support,2023-07-18,23.0,1674000,379000,,Pending,Bachelor
+E0496,Employee_496,25.0,Male,Tashkent,,2022-12-07,0.0,1870000,698000,96.8,Pending,Master
+E0497,Employee_497,53.0,Female,Fergana,Sales,2024-10-25,26.0,1587000,118000,59.5,Inactive,Bachelor
+E0498,Employee_498,,Male,Bukhara,,2021-11-01,22.0,1455000,648000,56.9,Pending,Master
+E0499,Employee_499,59.0,Female,Tashkent,IT,2022-06-12,34.0,"2,100,000",113000,68.2,Inactive,Bachelor
+E0500,Employee_500,36.0,Male,Andijan,HR,2021-04-22,13.0,555000,646000,63.6,Inactive,PhD
+E0501,Employee_501,60.0,,Andijan,Finance,2024-12-10,33.0,2414000,380000,75.5,Pending,High School
+E0502,Employee_502,29.0,Female,Tashkent,Operations,2021-08-28,6.0,2001000,366000,61.8,Inactive,Master
+E0503,Employee_503,37.0,Male,Nukus,Support,2023-02-27,13.0,1804000,,66.1,Pending,PhD
+E0504,Employee_504,25.0,Male,Khiva,Operations,2024-05-31,0.0,2397000,568000,82.3,,PhD
+E0505,Employee_505,56.0,Female,Namangan,Sales,2023-07-18,34.0,,128000,92.7,Inactive,High School
+E0506,Employee_506,23.0,Male,Samarkand,Sales,2023-11-07,2.0,734000,191000,57.5,Inactive,
+E0507,Employee_507,29.0,Female,Namangan, sales ,2022-09-20,6.0,,640000,73.7,Inactive,High School
+E0508,Employee_508,34.0,Female,Khiva,IT,2022-12-02,12.0,981000,660000,61.7,Inactive,Master
+E0509,Employee_509,53.0,Female,Fergana,Operations,2023-09-29,27.0,1917000,62000,83.4,Active,PhD
+E0510,Employee_510,,Female,Samarkand,IT,2021-11-23,0.0,2298000,682000,68.0,Active,PhD
+E0511,Employee_511,49.0,Female,Nukus,IT,2021-08-11,27.0,743000,,83.6,Active,PhD
+E0512,Employee_512,58.0,Male,,Marketing,2024-08-17,36.0,706000,662000,60.0,Active,
+E0513,Employee_513,60.0,Male,Nukus,Marketing,2024-02-02,40.0,1950000,35000,58.9,Active,Master
+E0514,Employee_514,,Female,,HR,2024-02-01,29.0,633000,692000,84.4,Pending,Master
+E0515,Employee_515,52.0,Male,Khiva,Support,2024-09-09,32.0,2336000,189000,92.6,Pending,Master
+E0516,Employee_516,,Female,Nukus,Marketing,2024-06-28,25.0,1978000,324000,70.6,Inactive,PhD
+E0517,Employee_517,24.0,Female,Bukhara,Support,2022-09-28,2.0,2163000,336000,69.0,Inactive,Bachelor
+E0518,Employee_518,43.0,Female,Nukus,Support,2022-08-25,16.0,975000,168000,59.8,Inactive,Bachelor
+E0519,Employee_519,35.0,Female,Samarkand,HR,2021-07-24,15.0,1592000,601000,89.6,Active,High School
+E0520,Employee_520,28.0,Male,Andijan,Marketing,2022-02-26,2.0,748000,372000,79.9,Inactive,Master
+E0521,Employee_521,28.0,Male,Fergana,,2025-03-27,5.0,2318000,295000,56.7,,High School
+E0522,Employee_522,24.0,Female,Andijan,IT,2023-01-20,3.0,$980000,,73.5,Inactive,High School
+E0523,Employee_523,,Male,Nukus,Finance,2024-06-25,,802000,330000,80.2,Pending,Master
+E0524,Employee_524,23.0,Female,Andijan,HR,2022-07-08,0.0,1153000,266000,75.5,Inactive,Master
+E0525,Employee_525,56.0,Male,Nukus,IT,2023-12-26,33.0,1161000,120000,83.2,Inactive,PhD
+E0526,Employee_526,31.0,Female,Khiva,Sales,,8.0,1934000,216000,60.7,Active,Master
+E0527,Employee_527,30.0,Male,Khiva,Sales,2024-11-01,9.0,1724000,25000,,Inactive,Master
+E0528,Employee_528,54.0,Female,Nukus,Finance,2022-02-27,30.0,1579000,463000,59.5,Inactive,PhD
+E0529,Employee_529,59.0,Male,Bukhara,Support,2021-03-23,32.0,973000,,86.4,Pending,High School
+E0530,Employee_530,43.0,Female,,Marketing,2023-05-27,21.0,1356000,,72.2,Active,High School
+E0531,Employee_531,39.0,Female,Samarkand,Support,2021-10-20,16.0,1481000,124000,98.7,Active,Master
+E0532,Employee_532,42.0,Female,Andijan,Operations,2025-01-25,18.0,575000,479000,87.0,Active,Bachelor
+E0533,Employee_533,53.0,Female,Samarkand,HR,2022-07-27,31.0,1513000,559000,82.5,Pending,Bachelor
+E0534,Employee_534,27.0,Female,Tashkent,IT,2021-11-20,7.0,1035000,657000,,,Bachelor
+E0535,Employee_535,43.0,Female,Khiva,Support,2023-02-25,16.0,,0,64.5,Hold,
+E0536,Employee_536,29.0,Male,Samarkand,Support,2023-09-02,4.0,,10000,59.9,Active,PhD
+E0537,Employee_537,26.0,Female,Namangan,HR,2022-05-01,0.0,966000,179000,59.6,Pending,Bachelor
+E0538,Employee_538,42.0,Male,Khiva,Sales,2023-08-23,18.0,2458000,24000,72.3,Pending,PhD
+E0539,Employee_539,16.0,Female,Namangan,IT,2024-08-20,0.0,545000,56000,67.7,Pending,Master
+E0540,Employee_540,45.0,Male,Khiva,HR,2021-04-22,24.0,589000,550000,58.5,Active,Bachelor
+E0541,Employee_541,43.0,Male,Andijan,Support,2023-04-04,19.0,902000,683000,66.3,Pending,Bachelor
+E0542,Employee_542,43.0,Male,Fergana,IT,2023-06-07,18.0,1365000,631000,88.3,Pending,High School
+E0543,Employee_543,35.0,Male,Fergana,HR,2022-06-14,11.0,1290000,108000,84.8,Inactive,Bachelor
+E0544,Employee_544,51.0,Male,,Sales,,31.0,567000,580000,60.4,Inactive,High School
+E0545,Employee_545,44.0,Male,Khiva,Sales,2023-06-28,19.0,2019000,540000,97.6,Inactive,Master
+E0546,Employee_546,27.0,Male,Andijan,IT,2024-01-08,3.0,1727000,689000,81.7,Active,Bachelor
+E0547,Employee_547,44.0,Female,Nukus,HR,2025-04-22,22.0,,693000,98.6,Inactive,Master
+E0548,Employee_548,37.0,Female,Bukhara,Marketing,2024-11-23,17.0,748000,462000,57.9,Inactive,High School
+E0549,Employee_549,37.0,Male,Nukus,Marketing,2024-12-04,15.0,2046000,338000,89.1,Inactive,High School
+E0550,Employee_550,38.0,Female,Andijan,HR,2024-12-11,,934000,637000,75.5,Pending,Bachelor
+E0551,Employee_551,51.0,Male,Fergana,HR,2022-09-15,29.0,2180000,,98.3,Inactive,Master
+E0552,Employee_552,24.0,Female,,HR,2024-10-29,0.0,2038000,225000,91.1,Inactive,PhD
+E0553,Employee_553,39.0,Female,Khiva,Operations,2021-12-15,19.0,712000,531000,77.9,Active,High School
+E0554,Employee_554,27.0,Male,Samarkand,Marketing,2021-02-03,1.0,1432000,658000,86.6,Inactive,Bachelor
+E0555,Employee_555,28.0,Female,,,2022-01-15,5.0,1289000,510000,87.4,Active,Master
+E0556,Employee_556,23.0,Male,Namangan,Marketing,2023-11-08,0.0,2038000,340000,67.0,Pending,Master
+E0557,Employee_557,60.0,Female,,Operations,2021-02-02,39.0,1082000,278000,67.6,Active,High School
+E0558,Employee_558,22.0,Male,Bukhara,HR,2024-11-20,0.0,1378000,152000,,Inactive,Bachelor
+E0559,Employee_559,38.0,Male,Tashkent,Support,2025-04-28,16.0,,425000,80.0,Active,High School
+E0560,Employee_560,42.0,Female,Bukhara,Marketing,2022-01-15,,1198000,598000,,Inactive,PhD
+E0561,Employee_561,52.0,Male,Tashkent,IT,2021-06-27,25.0,2392000,128000,91.1,Active,
+E0562,Employee_562,,Male,Tashkent,IT,,15.0,686000,607000,83.7,,PhD
+E0563,Employee_563,35.0,Male,Bukhara,IT,2024-07-19,12.0,1386000,48000,93.5,Active,Master
+E0564,Employee_564,51.0,Female,Fergana, IT ,2024-05-26,,945000,250000,84.3,Inactive,PhD
+E0565,Employee_565,50.0,Female,Nukus,,,25.0,2300000,687000,56.0,Active,Bachelor
+E0566,Employee_566,41.0,Female,Namangan,HR,2023-02-08,21.0,2339000,,73.4,Inactive,Master
+E0567,Employee_567,38.0,Male,Fergana,Marketing,2021-05-30,13.0,2065000,575000,61.1,Active,PhD
+E0568,Employee_568,33.0,Female,,HR,2025-04-04,,658000,552000,81.5,Active,Bachelor
+E0569,Employee_569,31.0,Male,Khiva,Sales,2022-04-21,9.0,2213000,,57.6,Pending,PhD
+E0570,Employee_570,48.0,Male,Samarkand,Finance,2022-02-13,27.0,987000,341000,80.6,Active,Master
+E0571,Employee_571,31.0,Male,Andijan,Finance,2023-05-23,6.0,856000,44000,,Active,High School
+E0572,Employee_572,59.0,Male,Bukhara,,2022-07-21,39.0,981000,108000,94.5,Pending,Master
+E0573,Employee_573,41.0,Female,,Sales,not_a_date,16.0,1275000,434000,71.0,Inactive,PhD
+E0574,Employee_574,40.0,Male,Andijan,Finance,2021-05-05,20.0,2164000,,,Inactive,Bachelor
+E0575,Employee_575,23.0,Male,Bukhara,hr,2021-09-04,0.0,1056000,,75.4,Active,Master
+E0576,Employee_576,54.0,Female,Samarkand,Marketing,2022-05-23,29.0,757000,150000,92.8,Active,Bachelor
+E0577,Employee_577,28.0,Male,Bukhara,Marketing,2023-05-29,8.0,25000000,302000,76.3,Active,PhD
+E0578,Employee_578,22.0,Male,Tashkent,Marketing,2024-09-28,0.0,1048000,399000,85.6,Inactive,Bachelor
+E0579,Employee_579,48.0,Male,Nukus,Support,2024-01-22,,2287000,17000,66.4,Active,PhD
+E0580,Employee_580,,Male,Namangan,Marketing,2024-10-27,0.0,746000,421000,75.6,Pending,Master
+E0581,Employee_581,43.0,Female,Samarkand,Operations,2023-09-09,16.0,1096000,635000,97.2,Inactive,Master
+E0582,Employee_582,36.0,Male,Samarkand,Sales,2022-11-13,14.0,600000,324000,92.9,Inactive,Master
+E0583,Employee_583,,Female,Namangan,Sales,2023-07-08,16.0,,19000,76.5,Pending,Bachelor
+E0584,Employee_584,25.0,Female,,Sales,2021-04-10,3.0,1407000,300000,65.2,,PhD
+E0585,Employee_585,53.0,,Bukhara,Operations,2022-05-16,,2404000,644000,82.2,Inactive,High School
+E0586,Employee_586,51.0,Female,Khiva,Finance,2021-05-30,29.0,1944000,252000,71.3,Pending,
+E0587,Employee_587,57.0,Male,Fergana,Sales,2025-02-03,34.0,899000,,70.1,Active,Bachelor
+E0588,Employee_588,49.0,Male,Andijan,Operations,2021-04-26,23.0,1089000,107000,74.7,,Master
+E0589,Employee_589,47.0,Female,Khiva,Finance,2022-06-22,25.0,2025000,223000,75.2,Inactive,High School
+E0590,Employee_590,59.0,Male,Nukus,Marketing,2024-09-14,35.0,868000,212000,76.2,Pending,Bachelor
+E0591,Employee_591,45.0,Female,Namangan,Operations,2024-03-14,19.0,1354000,412000,,Inactive,High School
+E0592,Employee_592,23.0,Male,Andijan,IT,2023-09-16,0.0,1597000,482000,67.8,Active,High School
+E0593,Employee_593,57.0,Male,Fergana,HR,2024-09-29,30.0,1802000,646000,57.2,Pending,PhD
+E0594,Employee_594,31.0,Male,Namangan,Support,2024-11-20,4.0,2234000,309000,87.1,Pending,Master
+E0595,Employee_595,,Female,Tashkent,HR,,24.0,1739000,424000,98.1,Pending,Master
+E0596,Employee_596,42.0,Male,Andijan,Sales,2021-10-24,,1061000,606000,69.5,Inactive,Bachelor
+E0597,Employee_597,48.0,Male,,Support,2022-01-16,20.0,2469000,206000,85.1,Active,PhD
+E0598,Employee_598,44.0,Male,Tashkent,IT,2023-01-07,22.0,,184000,97.9,Pending,Master
+E0599,Employee_599,46.0,Female,Samarkand,HR,2022-03-11,24.0,,557000,63.7,Inactive,PhD
+E0600,Employee_600,21.0,Male,,Finance,2022-03-28,0.0,889000,335000,74.6,Inactive,Bachelor
+E0601,Employee_601,54.0,Male,,HR,2022-05-28,,,221000,92.4,,PhD
+E0602,Employee_602,37.0,Female,Andijan,,2024-09-05,10.0,2414000,49000,59.1,Pending,PhD
+E0603,Employee_603,52.0,Female,Bukhara,Support,2021-03-04,28.0,755000,456000,88.1,Inactive,High School
+E0604,Employee_604,43.0,Male,Bukhara,Finance,2023-04-04,22.0,1786000,109000,64.5,Active,High School
+E0605,Employee_605,47.0,Female,Bukhara,Marketing,2024-09-05,23.0,900000,509000,64.3,Active,Master
+E0606,Employee_606,34.0,Female,Fergana,Support,2025-04-28,12.0,1258000,37000,58.8,Inactive,
+E0607,Employee_607,35.0,,Bukhara,IT,2021-10-26,14.0,1239000,458000,61.6,Active,Master
+E0608,Employee_608,57.0,Male,Andijan,,2024-05-14,32.0,1184000,553000,,Pending,High School
+E0609,Employee_609,58.0,Male,Nukus,IT,2021-06-01,31.0,2184000,273000,62.2,Pending,Master
+E0610,Employee_610,50.0,Male,Tashkent,Finance,2022-04-04,26.0,2155000,36000,74.6,Active,High School
+E0611,Employee_611,41.0,Female,Fergana,Operations,2023-01-21,18.0,1027000,551000,70.6,Active,Master
+E0612,Employee_612,35.0,Female,Tashkent,Support,2024-05-05,7.0,1610000,460000,62.3,Active,
+E0613,Employee_613,27.0,Female,Nukus,Operations,2025-02-13,7.0,1868000,555000,86.4,Inactive,Bachelor
+E0614,Employee_614,53.0,Male,Fergana,HR,2022-03-27,27.0,1075000,591000,55.0,Pending,High School
+E0615,Employee_615,42.0,Female,Fergana,Marketing,2022-11-02,21.0,501000,,68.7,Active,PhD
+E0616,Employee_616,44.0,Female,Fergana,IT,2021-01-04,19.0,1889000,352000,87.2,Inactive,High School
+E0617,Employee_617,42.0,Female,Namangan,Sales,2025-01-03,19.0,918000,659000,57.9,Active,High School
+E0618,Employee_618,25.0,Female,Andijan,Marketing,2025-02-09,2.0,809000,468000,61.5,Pending,High School
+E0619,Employee_619,28.0,Female,Bukhara,Finance,,7.0,1896000,514000,,Pending,PhD
+E0620,Employee_620,36.0,Male,Nukus,IT,2023-05-18,8.0,,103000,63.9,Active,
+E0621,Employee_621,49.0,Male,Bukhara,Sales,2023/04/01,25.0,543000,484000,78.0,Pending,Bachelor
+E0622,Employee_622,57.0,Male,Bukhara,Operations,2024-11-23,34.0,974000,625000,86.8,Pending,High School
+E0623,Employee_623,56.0,Male,Bukhara,HR,2021-09-27,36.0,2102000,444000,58.1,Other,Bachelor
+E0624,Employee_624,50.0,Male,Andijan,HR,2023-11-20,23.0,,154000,94.8,Active,Bachelor
+E0625,Employee_625,33.0,Male,Khiva,Operations,2022-07-14,5.0,883000,,59.9,Active,Master
+E0626,Employee_626,40.0,Female,Tashkent,,2021-05-02,17.0,2399000,193000,64.5,Inactive,PhD
+E0627,Employee_627,22.0,Female,Khiva,Marketing,2025-05-13,0.0,518000,338000,72.5,Inactive,Bachelor
+E0628,Employee_628,22.0,Male,Khiva,Operations,2025-02-12,0.0,770000,562000,58.4,Pending,High School
+E0629,Employee_629,27.0,Female,Khiva,Marketing,2023-01-09,7.0,1685000,615000,77.9,Pending,Master
+E0630,Employee_630,26.0,Female,Andijan,Finance,2021-03-18,0.0,2083000,277000,55.0,Active,PhD
+E0631,Employee_631,,Female,Samarkand,Sales,2024-03-10,35.0,1144000,680000,94.4,Inactive,Master
+E0632,Employee_632,25.0,Female,Nukus,Marketing,2025-04-07,1.0,1848000,259000,64.0,Pending,Master
+E0633,Employee_633,54.0,Female,Nukus,Finance,2022-10-25,,,302000,70.4,Pending,Bachelor
+E0634,Employee_634,36.0,Male,Namangan,HR,2023-08-18,11.0,2035000,455000,87.2,Inactive,Master
+E0635,Employee_635,59.0,Female,Fergana,Sales,2025-03-26,34.0,721000,698000,58.5,Inactive,Bachelor
+E0636,Employee_636,,Male,Namangan,IT,2025-03-28,0.0,1350000,137000,75.2,Active,Master
+E0637,Employee_637,26.0,Male,Fergana,Operations,2021-11-18,4.0,1455000,611000,70.6,Inactive,High School
+E0638,Employee_638,45.0,,Nukus,Operations,2022-01-19,21.0,1736000,108000,70.1,Inactive,PhD
+E0639,Employee_639,52.0,Male,Tashkent,IT,2023-09-24,26.0,1602000,382000,88.4,Inactive,High School
+E0640,Employee_640,28.0,Male,Bukhara,Support,2024-08-16,5.0,938000,370000,72.7,Inactive,PhD
+E0641,Employee_641,48.0,Male,Samarkand,Sales,2023-08-24,25.0,1845000,693000,59.1,Active,High School
+E0642,Employee_642,60.0,Male,Khiva,Marketing,2024-03-09,38.0,$980000,30000,73.4,Active,High School
+E0643,Employee_643,35.0,Male,Andijan,IT,2024-04-13,10.0,1040000,447000,79.1,Active,PhD
+E0644,Employee_644,53.0,Female,Bukhara,Marketing,2022-03-24,26.0,2180000,689000,77.4,Pending,
+E0645,Employee_645,57.0,Male,Namangan,Finance,2022-07-13,,1445000,68000,96.5,Pending,Bachelor
+E0646,Employee_646,24.0,Female,Fergana,HR,2022-01-26,,1093000,196000,62.0,,Master
+E0647,Employee_647,44.0,,Khiva,,,18.0,823000,538000,70.0,Inactive,Bachelor
+E0648,Employee_648,43.0,Male,Samarkand,,2023-05-15,20.0,1184000,261000,89.4,Pending,Master
+E0649,Employee_649,27.0,Male,Samarkand,Operations,2023-10-21,6.0,698000,424000,98.4,Active,PhD
+E0650,Employee_650,54.0,,Nukus,Marketing,2021-11-20,26.0,1489000,67000,66.8,Active,High School
+E0651,Employee_651,,Female,,IT,2024-07-25,13.0,852000,198000,69.8,Pending,
+E0652,Employee_652,30.0,Female,Andijan,Finance,2021-09-04,9.0,1997000,,96.4,Active,PhD
+E0653,Employee_653,26.0,Female,,Operations,2023-06-11,6.0,2220000,72000,60.9,Active,Bachelor
+E0654,Employee_654,,Female,Khiva,Finance,2025-04-08,13.0,1809000,,,Active,PhD
+E0655,Employee_655,55.0,Male,Samarkand,Marketing,2023-03-02,,682000,190000,96.0,Inactive,Master
+E0656,Employee_656,40.0,Female,,HR,2023-02-14,19.0,676000,10000,87.1,Active,Bachelor
+E0657,Employee_657,60.0,Female,Samarkand,Sales,2023-01-15,33.0,1551000,490000,,Active,PhD
+E0658,Employee_658,21.0,Female,Samarkand,HR,2023-02-22,0.0,1848000,546000,56.4,Pending,Bachelor
+E0659,Employee_659,43.0,Male,Nukus,Sales,2023-03-14,15.0,1290000,433000,55.3,Active,Bachelor
+E0660,Employee_660,32.0,,Namangan,IT,2024-10-28,8.0,1661000,595000,63.9,Inactive,High School
+E0661,Employee_661,26.0,Female,Bukhara,Finance,2021-09-11,1.0,1509000,530000,,Active,Bachelor
+E0662,Employee_662,40.0,Male,,Support,2021-08-21,18.0,2496000,155000,84.0,Active,PhD
+E0663,Employee_663,29.0,Male,Fergana,Operations,2022/05/15,2.0,1202000,121000,68.6,Active,Bachelor
+E0664,Employee_664,29.0,Female,Nukus,Support,2022-03-25,3.0,1196000,250000,63.3,Inactive,Bachelor
+E0665,Employee_665,56.0,Male,Tashkent,Finance,2021-01-02,31.0,939000,591000,69.1,Active,High School
+E0666,Employee_666,33.0,Female,tashkent,IT,2022-04-12,11.0,2325000,650000,79.2,Active,High School
+E0667,Employee_667,24.0,Female,Samarkand,Finance,2023-01-13,0.0,835000,36000,69.8,Inactive,PhD
+E0668,Employee_668,36.0,Female,Namangan,IT,2023-10-19,10.0,1505000,353000,88.2,Pending,High School
+E0669,Employee_669,49.0,,Tashkent,HR,2025-04-27,29.0,2303000,,,Pending,Master
+E0670,Employee_670,32.0,Male,Andijan,Operations,2022-01-22,8.0,,257000,,Active,PhD
+E0671,Employee_671,31.0,Female,Khiva,Finance,2022-07-14,10.0,645000,547000,68.1,Active,High School
+E0672,Employee_672,37.0,Female,Khiva,Support,2022-10-08,11.0,1264000,56000,76.8,Inactive,High School
+E0673,Employee_673,55.0,Female,Nukus,HR,2023-01-22,31.0,2285000,325000,68.1,Inactive,Bachelor
+E0674,Employee_674,,Female,,HR,2022-06-16,22.0,1748000,185000,83.1,Pending,
+E0675,Employee_675,27.0,Male,,,15/05/2022,3.0,536000,32000,76.3,Inactive,High School
+E0676,Employee_676,48.0,Female,Bukhara,,2022-09-10,,1926000,29000,97.1,Active,High School
+E0677,Employee_677,44.0,Female,Namangan,IT,2024-08-12,18.0,2010000,145000,91.2,Active,Master
+E0678,Employee_678,,Female,Nukus,,2024-03-13,27.0,2166000,178000,96.6,Inactive,High School
+E0679,Employee_679,57.0,Female,Samarkand,Finance,2021-05-12,36.0,2173000,691000,64.5,Pending,Bachelor
+E0680,Employee_680,30.0,Female,Nukus,Operations,,9.0,794000,317000,98.0,Active,PhD
+E0681,Employee_681,59.0,Male,Bukhara,Sales,2025-03-31,34.0,1807000,349000,75.6,Inactive,Bachelor
+E0682,Employee_682,37.0,Male,Nukus,IT,2023-01-13,13.0,952000,250000,98.2,Active,PhD
+E0683,Employee_683,29.0,Male,Bukhara,HR,2025-01-23,3.0,2249000,425000,84.2,Pending,High School
+E0684,Employee_684,50.0,Female,Andijan,Marketing,2024-02-07,28.0,691000,404000,86.7,Pending,Bachelor
+E0685,Employee_685,29.0,Male,Tashkent,Finance,2023-01-01,2.0,1011000,364000,92.6,Active,
+E0686,Employee_686,,Male,Samarkand,Finance,2024-02-02,34.0,1721000,672000,76.3,Pending,
+E0687,Employee_687,27.0,Male,Samarkand,Finance,2024-04-23,4.0,1237000,620000,75.9,Active,Master
+E0688,Employee_688,32.0,Male,Khiva,Sales,2023-07-29,12.0,839000,204000,,Inactive,Master
+E0689,Employee_689,23.0,Male,Fergana,Sales,2024-03-14,,797000,612000,88.9,Active,PhD
+E0690,Employee_690,30.0,Female,Fergana,Marketing,2022-11-03,8.0,1949000,253000,59.8,Inactive,Bachelor
+E0691,Employee_691,27.0,Female,Fergana,Marketing,2025-01-09,5.0,927000,134000,97.1,Inactive,High School
+E0692,Employee_692,44.0,Male,Bukhara,IT,2023-09-10,18.0,,602000,90.0,Inactive,
+E0693,Employee_693,23.0,Female,Samarkand,IT,2021-09-05,0.0,873000,1000,78.4,Inactive,Bachelor
+E0694,Employee_694,46.0,Female,Tashkent,IT,2021-10-31,25.0,1096000,565000,78.7,Inactive,Master
+E0695,Employee_695,28.0,Female,Khiva,Finance,,3.0,886000,410000,98.9,Active,Bachelor
+E0696,Employee_696,25.0,Female,Fergana,Finance,2022-07-28,0.0, 1500000 ,,97.7,Inactive,Master
+E0697,Employee_697,36.0,Male,Fergana,Finance,2021-07-04,12.0,1962000,597000,75.0,Active,Master
+E0698,Employee_698,,Female,Khiva,Support,2023-07-03,29.0,920000,613000,55.6,Pending,Master
+E0699,Employee_699,27.0,Female,Khiva,HR,not_a_date,0.0,,597000,55.6,Pending,Bachelor
+E0700,Employee_700,29.0,,Namangan,Marketing,2025-04-22,3.0,809000,485000,97.5,Inactive,Master
+E0701,Employee_701,51.0,Female,Fergana,HR,2021-06-07,,782000,671000,88.0,Active,PhD
+E0702,Employee_702,37.0,Male,Namangan,Marketing,2023-12-10,13.0,1198000,35000,65.4,Inactive,Master
+E0703,Employee_703,43.0,,Bukhara,Support,2022-08-10,16.0,1405000,182000,85.4,Pending,PhD
+E0704,Employee_704,41.0,Female,Andijan,,2021-12-10,14.0,1493000,342000,80.9,Inactive,High School
+E0705,Employee_705,39.0,Male,,IT,2022-01-01,19.0,981000,665000,59.9,Inactive,High School
+E0706,Employee_706,,Female,Fergana,Marketing,2022-05-12,,720000,148000,63.6,Pending,Bachelor
+E0707,Employee_707,41.0,Female,Fergana,Operations,2022-02-02,14.0,684000,626000,64.9,Pending,PhD
+E0708,Employee_708,34.0,Female,Bukhara,Marketing,2021-07-20,10.0,1758000,220000,92.8,Active,Master
+E0709,Employee_709,23.0,Female,Samarkand,Finance,2022-04-15,0.0,2469000,185000,61.6,Pending,Bachelor
+E0710,Employee_710,21.0,Female,Tashkent,IT,2025-04-08,0.0,1261000,290000,,Inactive,Master
+E0711,Employee_711,23.0,Female,Bukhara,Support,2021-03-27,1.0,1793000,305000,96.7,Inactive,PhD
+E0712,Employee_712,42.0,Female,Bukhara,Operations,2021-11-24,16.0,,660000,92.0,Pending,PhD
+E0713,Employee_713,55.0,Male,Tashkent,Sales,2024-03-26,35.0,2192000,252000,55.8,Inactive,High School
+E0714,Employee_714,27.0,Male,Samarkand,Finance,2022-12-02,3.0,1076000,355000,,Pending,
+E0715,Employee_715,57.0,,Tashkent,IT,2025-03-28,37.0,2050000,582000,67.5,Active,Bachelor
+E0716,Employee_716,37.0,Female,Namangan,Marketing,2023-04-22,16.0,735000,700000,60.0,Inactive,PhD
+E0717,Employee_717,,Female,Andijan,Sales,2025-01-12,18.0,2246000,26000,82.9,Active,Bachelor
+E0718,Employee_718,34.0,,Namangan,IT,2024-08-19,13.0,1088000,0,63.4,Pending,Master
+E0719,Employee_719,,Female,Fergana,IT,,12.0,,674000,76.7,Inactive,PhD
+E0720,Employee_720,23.0,Male,Andijan,Operations,2024-08-12,2.0,1115000,82000,57.2,Inactive,Bachelor
+E0721,Employee_721,37.0,,Samarkand,Finance,2021-05-25,13.0,1509000,73000,85.2,Pending,PhD
+E0722,Employee_722,22.0,Male,,Support,2021-10-17,0.0,2445000,245000,55.0,Inactive,Master
+E0723,Employee_723,36.0,Female,Tashkent,Finance,2023-01-28,,538000,389000,99.0,Inactive,Bachelor
+E0724,Employee_724,27.0,Female,Namangan,Operations,2022-02-11,5.0,1493000,,57.4,Active,PhD
+E0725,Employee_725,45.0,Female,Namangan,Finance,,17.0,1980000,566000,91.1,,Bachelor
+E0726,Employee_726,25.0,Male,Khiva,HR,2021-02-10,2.0,1900000,445000,81.3,Active,Master
+E0727,Employee_727,50.0,Female,Tashkent,Finance,2022-09-04,30.0,688000,170000,,Inactive,Master
+E0728,Employee_728,50.0,Female,Nukus,Marketing,2025-02-12,22.0,1098000,502000,67.7,Active,Master
+E0729,Employee_729,46.0,Male,Andijan,IT,2022-12-27,19.0,2213000,71000,77.6,Pending,Master
+E0730,Employee_730,60.0,Female,,Operations,2023-02-21,38.0,2468000,672000,56.6,Active,Bachelor
+E0731,Employee_731,53.0,Male,Namangan, IT ,2022-06-19,32.0,1910000,109000,71.8,Inactive,High School
+E0732,Employee_732,57.0,Female,Fergana,Support,2021-05-23,29.0,852000,165000,83.7,Inactive,
+E0733,Employee_733,27.0,Male,,Operations,2023-11-12,0.0,1236000,317000,95.3,Active,PhD
+E0734,Employee_734,58.0,Female,Andijan,HR,2024-04-18,36.0,1654000,363000,65.5,Inactive,PhD
+E0735,Employee_735,55.0,Female,Namangan,HR,2023-11-21,27.0,686000,26000,90.0,Pending,PhD
+E0736,Employee_736,59.0,Female,Andijan,Finance,2024-09-07,32.0,1609000,,65.9,Inactive,Master
+E0737,Employee_737,33.0,Male,Namangan,Sales,2024-09-10,7.0,1877000,460000,59.0,Pending,High School
+E0738,Employee_738,43.0,Male,,Support,2021-11-29,16.0,2094000,320000,79.5,Pending,PhD
+E0739,Employee_739,21.0,Female,Bukhara,Sales,2024-08-28,0.0,2172000,522000,92.9,Inactive,High School
+E0740,Employee_740,56.0,Male,Fergana,Support,2022-08-05,35.0,552000,482000,67.2,Inactive,High School
+E0741,Employee_741,46.0,Male,Tashkent,Support,2024-06-26,26.0,1251000,303000,79.1,Active,Bachelor
+E0742,Employee_742,30.0,Female,Bukhara,Sales,2021-01-03,10.0,840000,615000,55.3,Inactive,PhD
+E0743,Employee_743,53.0,Female,Khiva,Operations,2023-09-20,30.0,1878000,175000,66.1,Inactive,Bachelor
+E0744,Employee_744,49.0,Female,Fergana,Finance,2025-03-17,22.0,1385000,47000,84.7,Pending,Master
+E0745,Employee_745,46.0,Female,Khiva,Operations,2025-04-01,19.0,1186000,237000,65.7,Active,Bachelor
+E0746,Employee_746,41.0,Male,Bukhara,Marketing,2022-02-12,19.0,1856000,699000,76.8,Pending,High School
+E0747,Employee_747,22.0,Male,Andijan,Marketing,,0.0,2093000,611000,,Pending,PhD
+E0748,Employee_748,22.0,Male,Andijan,HR,2021-12-21,,648000,47000,95.3,Inactive,Master
+E0749,Employee_749,34.0,Male,Fergana,IT,2022-12-13,13.0,1624000,365000,80.3,Pending,PhD
+E0750,Employee_750,27.0,Male,Fergana,Operations,2021-09-06,0.0,2211000,80000,70.9,Pending,High School
+E0751,Employee_751,60.0,Male,Tashkent,Operations,2024-04-01,36.0,1433000,3000,72.0,Inactive,PhD
+E0752,Employee_752,45.0,Male,,Support,2024-06-06,22.0,962000,377000,81.0,Active,PhD
+E0753,Employee_753,22.0,Female,Samarkand,IT,2024-06-11,0.0,1234000,446000,66.3,Active,PhD
+E0754,Employee_754,24.0,Male,Khiva,HR,,4.0,529000,625000,71.1,Inactive,High School
+E0755,Employee_755,52.0,Male,Fergana,Support,,25.0,,439000,82.6,Active,Bachelor
+E0756,Employee_756,56.0,Female,,Operations,2024-09-11,28.0,1397000,118000,64.3,Active,High School
+E0757,Employee_757,26.0,Male,Samarkand,,2024-02-03,1.0,2202000,687000,,Inactive,Bachelor
+E0758,Employee_758,42.0,Male,Bukhara,IT,2022-11-08,,2377000,76000,66.6,Inactive,PhD
+E0759,Employee_759,31.0,Female,Andijan, sales ,2022-08-11,5.0,523000,35000,89.5,Inactive,Master
+E0760,Employee_760,28.0,Female,Namangan,Sales,2022-04-04,5.0,1840000,248000,86.8,Pending,Master
+E0761,Employee_761,37.0,Male,Fergana,Finance,2024-01-22,16.0,1181000,639000,78.3,Inactive,High School
+E0762,Employee_762,,Female,Nukus,Finance,2021-05-13,6.0,938000,182000,91.6,Pending,PhD
+E0763,Employee_763,54.0,Male,Bukhara,,2022-11-06,31.0,,685000,86.3,Inactive,Bachelor
+E0764,Employee_764,43.0,Female,Khiva,IT,2023-12-15,20.0,1904000,411000,60.5,Inactive,High School
+E0765,Employee_765,,Female,Samarkand,Finance,2022-08-22,27.0,1798000,692000,,Pending,High School
+E0766,Employee_766,,Male,Nukus,,2021-09-20,26.0,2454000,324000,91.5,Pending,High School
+E0767,Employee_767,36.0,Male,,HR,2023-08-14,14.0,1353000,46000,59.5,Active,Bachelor
+E0768,Employee_768,54.0,Female,Tashkent,Operations,2022-02-27,,1746000,348000,77.1,Active,PhD
+E0769,Employee_769,72.0,Female,Nukus,Support,2024-06-08,33.0,1838000,395000,75.0,Pending,Master
+E0770,Employee_770,47.0,Female,Bukhara,Finance,2025-02-28,25.0,1402000,209000,77.7,Inactive,High School
+E0771,Employee_771,45.0,Female,Samarkand,Operations,2024-10-23,22.0,1398000,277000,69.3,Active,
+E0772,Employee_772,58.0,Male,Fergana,HR,2021-04-26,36.0,2250000,314000,,Inactive,PhD
+E0773,Employee_773,48.0,Male,bukhara ,Finance,2025-01-04,25.0,1701000,210000,61.4,Active,Master
+E0774,Employee_774,37.0,Female,Tashkent,HR,2024-12-01,17.0,1177000,106000,84.3,Pending,High School
+E0775,Employee_775,26.0,,Bukhara,IT,2023-01-29,0.0,587000,342000,,Active,Master
+E0776,Employee_776,23.0,Male,Nukus,Support,2022-04-08,1.0,1635000,385000,67.9,Pending,PhD
+E0777,Employee_777,60.0,Male,Namangan,Sales,2021-08-10,37.0,781000,374000,59.1,Inactive,Bachelor
+E0778,Employee_778,58.0,Male,Khiva,Marketing,2021-02-17,32.0,1804000,114000,90.0,Pending,PhD
+E0779,Employee_779,53.0,Female,Fergana,Support,2023-08-10,27.0,1395000,33000,60.6,Active,Bachelor
+E0780,Employee_780,,Male,Samarkand,Support,2024-02-25,24.0,709000,174000,87.4,Active,PhD
+E0781,Employee_781,32.0,Female,Nukus,HR,2022-07-12,6.0,25000000,274000,57.0,Active,PhD
+E0782,Employee_782,24.0,Male,Nukus,Finance,2021-09-19,0.0,1350000,,180.0,Inactive,High School
+E0783,Employee_783,40.0,Female,Khiva,IT,2024-09-25,17.0,1043000,597000,61.6,Inactive,Master
+E0784,Employee_784,58.0,Male,Tashkent,Sales,2022-02-12,37.0,1359000,370000,95.6,Pending,Master
+E0785,Employee_785,,Female,,Marketing,,26.0,2250000,488000,85.6,Inactive,PhD
+E0786,Employee_786,49.0,Female,Nukus,Finance,2021-09-05,,1648000,414000,86.2,Pending,High School
+E0787,Employee_787,51.0,Male,Khiva,Finance,2021-11-29,25.0,690000,119000,77.4,Active,High School
+E0788,Employee_788,38.0,Female,Tashkent,IT,2024-07-11,18.0,1250000,503000,59.7,Active,Master
+E0789,Employee_789,36.0,Female,Fergana,IT,2023-07-04,15.0,1636000,198000,94.6,Pending,PhD
+E0790,Employee_790,30.0,Female,Fergana,Sales,2024-01-22,10.0,2386000,326000,56.7,Inactive,PhD
+E0791,Employee_791,30.0,Female,Fergana,IT,2023-07-17,3.0,,478000,61.3,Pending,PhD
+E0792,Employee_792,23.0,Female,Khiva,Marketing,2023-09-14,0.0,"1,250,000",,87.0,Inactive,Master
+E0793,Employee_793,36.0,Female,Bukhara,Sales,2021-03-28,14.0,"1,250,000",488000,72.5,Active,High School
+E0794,Employee_794,,Female,Bukhara,HR,2024-04-18,16.0,1654000,327000,82.8,Inactive,Master
+E0795,Employee_795,47.0,Male,Andijan,HR,2023-06-26,20.0,1729000,282000,94.7,Active,Bachelor
+E0796,Employee_796,40.0,Male,Fergana,Sales,2021-06-16,16.0,1147000,48000,78.5,Inactive,High School
+E0797,Employee_797,59.0,Male,Andijan,Support,2025-02-12,31.0,2495000,179000,60.4,Pending,High School
+E0798,Employee_798,25.0,,Andijan,Operations,2024-08-13,3.0,1620000,453000,73.9,Inactive,Bachelor
+E0799,Employee_799,46.0,Male,Bukhara,Finance,2023-02-10,24.0,1010000,680000,87.9,Inactive,High School
+E0800,Employee_800,24.0,Female,Fergana,Support,2021-10-29,0.0,992000,217000,62.1,,Master
+E0801,Employee_801,25.0,Female,Tashkent,Sales,2024-12-01,5.0,1374000,309000,74.3,Active,Bachelor
+E0802,Employee_802,31.0,Male,Khiva,Operations,2022-02-17,8.0,2367000,117000,92.8,Pending,Bachelor
+E0803,Employee_803,59.0,Female,Fergana,Marketing,2024-07-08,33.0,1515000,95000,84.5,Inactive,Master
+E0804,Employee_804,33.0,Female,Bukhara,Marketing,2022-03-02,10.0,,145000,82.7,Active,PhD
+E0805,Employee_805,29.0,Male,Andijan,Finance,2021-02-15,3.0,1090000,351000,84.2,Active,Bachelor
+E0806,Employee_806,49.0,Female,Samarkand,Marketing,2022-02-07,29.0,1368000,642000,89.0,Inactive,High School
+E0807,Employee_807,58.0,Female,Fergana,IT,,30.0,610000,174000,97.8,Pending,Master
+E0808,Employee_808,36.0,Male,Samarkand,Finance,2023-04-01,11.0,1074000,219000,83.9,Inactive,Master
+E0809,Employee_809,60.0,Female,Nukus,Finance,,39.0,802000,670000,82.0,Active,PhD
+E0810,Employee_810,23.0,Female,Andijan,IT,2024-02-02,0.0,2107000,493000,81.9,Inactive,High School
+E0811,Employee_811,26.0,Female,Namangan,IT,2024-04-16,0.0,2228000,,68.2,Active,High School
+E0812,Employee_812,33.0,Female,Tashkent,IT,2024-12-20,13.0,1451000,283000,97.4,Inactive,Bachelor
+E0813,Employee_813,56.0,Female,Khiva,Support,2025-03-30,31.0,2045000,685000,63.6,Active,Master
+E0814,Employee_814,41.0,Female,Nukus,HR,2024-09-03,14.0,959000,401000,57.1,Pending,Bachelor
+E0815,Employee_815,52.0,,Khiva,Support,2022-06-15,27.0,1915000,457000,65.9,Active,PhD
+E0816,Employee_816,26.0,Male,Nukus,Support,2021-10-19,,1785000,512000,76.6,Pending,Master
+E0817,Employee_817,60.0,Female,Andijan,IT,2022-03-03,32.0,849000,118000,88.6,Active,PhD
+E0818,Employee_818,38.0,Male,Tashkent,HR,2024-11-09,13.0,2284000,91000,70.0,Pending,Bachelor
+E0819,Employee_819,25.0,Female,Nukus,IT,2023-03-24,0.0,,,96.9,Active,Bachelor
+E0820,Employee_820,59.0,Male,Namangan,IT,2021-08-29,32.0,2447000,38000,62.6,Active,Bachelor
+E0821,Employee_821,48.0,Male,Tashkent,Finance,2022-12-25,25.0,2212000,658000,83.3,Inactive,Master
+E0822,Employee_822,48.0,Female,Bukhara,IT,2023-06-09,,1239000,290000,94.0,Pending,
+E0823,Employee_823,50.0,Female,Namangan,Sales,2024-07-29,22.0,1224000,226000,74.5,,
+E0824,Employee_824,23.0,Female,Tashkent,Marketing,2023-05-05,,633000,614000,56.2,Pending,Bachelor
+E0825,Employee_825,35.0,Female,Tashkent,,2024-08-26,13.0,2170000,689000,66.4,Pending,
+E0826,Employee_826,41.0,,Samarkand,Support,2023-06-12,19.0,2234000,637000,73.5,Active,High School
+E0827,Employee_827,,Male,Khiva,Sales,2024-06-09,16.0,1658000,233000,57.2,Active,
+E0828,Employee_828,50.0,Female,Khiva,Support,,25.0,1759000,102000,66.3,Pending,High School
+E0829,Employee_829,13.0,Female,Tashkent,Finance,2021-05-04,3.0,1974000,191000,60.9,Active,High School
+E0830,Employee_830,45.0,Female,Fergana,IT,2023-05-05,24.0,1301000,325000,97.0,Active,PhD
+E0831,Employee_831,43.0,Male,,,2021-07-12,18.0,1129000,467000,75.9,Inactive,High School
+E0832,Employee_832,25.0,Female,Andijan,Sales,2023-04-25,3.0,1167000,420000,86.8,Pending,Master
+E0833,Employee_833,43.0,Female,Samarkand,Sales,2022-01-16,16.0,993000,429000,82.4,Pending,Master
+E0834,Employee_834,,Male,Andijan,Operations,2021-04-30,29.0,770000,473000,,,High School
+E0835,Employee_835,55.0,Female,Samarkand,Marketing,,,563000,370000,83.1,Pending,Master
+E0836,Employee_836,42.0,Female,,Finance,2022-04-26,16.0,1502000,500000,90.0,Active,Bachelor
+E0837,Employee_837,35.0,Female,Andijan,IT,2022-01-11,11.0,1125000,,75.1,Active,Bachelor
+E0838,Employee_838,29.0,Male,Samarkand,Sales,2022-07-01,2.0,2116000,463000,85.0,Inactive,PhD
+E0839,Employee_839,55.0,Female,Khiva,Support,2022-01-15,31.0,2433000,90000,55.3,Pending,Master
+E0840,Employee_840,52.0,Female,Bukhara,Sales,2022-08-25,26.0,827000,160000,73.3,Inactive,PhD
+E0841,Employee_841,23.0,Female,Namangan,Marketing,2024-01-01,0.0,1259000,647000,89.2,Pending,Master
+E0842,Employee_842,48.0,Male,Khiva,HR,2021-07-29,27.0,2445000,143000,78.9,Pending,High School
+E0843,Employee_843,46.0,Female,Andijan,Finance,2022-08-31,18.0,2206000,618000,77.8,Inactive,High School
+E0844,Employee_844,39.0,Female,,Support,2021-12-30,15.0,2277000,271000,84.5,Inactive,Bachelor
+E0845,Employee_845,36.0,Female,Nukus,Sales,2021-06-25,11.0,2391000,130000,75.4,Inactive,Bachelor
+E0846,Employee_846,55.0,Female,Nukus,Sales,2021-12-09,29.0,1320000,78000,77.6,Active,High School
+E0847,Employee_847,21.0,Male,Nukus,Marketing,2021-06-05,0.0,,614000,85.6,Pending,Bachelor
+E0848,Employee_848,,Female,Khiva,IT,2024-09-03,34.0,755000,107000,,Inactive,Bachelor
+E0849,Employee_849,59.0,,Khiva,HR,2023-11-09,37.0,1901000,373000,83.0,Active,PhD
+E0850,Employee_850,30.0,Female,Nukus,Support,2022-03-26,10.0,2278000,622000,98.6,Active,Bachelor
+E0851,Employee_851,,Male,Nukus,Operations,2023-08-27,33.0,1264000,441000,63.2,,PhD
+E0852,Employee_852,49.0,Male,Tashkent,Support,2024-10-21,26.0,1549000,457000,95.7,Inactive,PhD
+E0853,Employee_853,59.0,Male,Fergana,Marketing,2021-09-03,35.0,2326000,399000,74.6,Active,High School
+E0854,Employee_854,55.0,Male,,Marketing,2022-05-29,31.0,796000,175000,64.0,Active,High School
+E0855,Employee_855,42.0,Male,Tashkent,Sales,2023-10-03,14.0,,211000,87.8,Active,Master
+E0856,Employee_856,52.0,Male,Namangan,Finance,2023-07-30,27.0,898000,61000,,Pending,PhD
+E0857,Employee_857,42.0,Male,Bukhara,Finance,2024-08-21,22.0,2336000,,85.4,Active,High School
+E0858,Employee_858,52.0,Male,Nukus,IT,2024-03-25,,899000,498000,89.2,Active,High School
+E0859,Employee_859,50.0,,Nukus,Support,2023-08-28,28.0,655000,68000,97.0,Active,Bachelor
+E0860,Employee_860,39.0,Male,Khiva,Operations,2022-10-09,17.0,1991000,120000,93.9,Pending,Master
+E0861,Employee_861,42.0,Female,,Marketing,2022-01-29,18.0,1073000,292000,69.3,Pending,High School
+E0862,Employee_862,24.0,Male,Andijan,,2023-08-18,0.0,2425000,33000,77.2,Active,PhD
+E0863,Employee_863,35.0,Female,Nukus,Operations,,10.0,965000,610000,66.5,Active,Bachelor
+E0864,Employee_864,31.0,, Tashkent ,Finance,2024-07-28,7.0,962000,512000,89.4,Pending,High School
+E0865,Employee_865,56.0,Female,,IT,2022-11-17,29.0,759000,563000,73.2,Pending,PhD
+E0866,Employee_866,42.0,Male,Tashkent,Marketing,2024-12-14,18.0,$ 760000,645000,93.4,Pending,PhD
+E0867,Employee_867,47.0,Female,Bukhara,Finance,2023-05-21,19.0,2150000,,69.1,Pending,High School
+E0868,Employee_868,48.0,Male,Samarkand,Operations,2021-03-14,20.0,1325000,213000,96.4,Active,Master
+E0869,Employee_869,43.0,Female,Bukhara,,2022-03-21,19.0,2059000,301000,69.9,Inactive,High School
+E0870,Employee_870,24.0,Male,Andijan,Operations,2023-10-17,,1385000,434000,87.8,Pending,Bachelor
+E0871,Employee_871,28.0,Male,Bukhara,Marketing,2024-04-14,8.0,1294000,,65.3,Active,PhD
+E0872,Employee_872,37.0,Male,Andijan,Operations,2021-03-04,9.0,885000,625000,81.9,Inactive,Master
+E0873,Employee_873,48.0,Female,Andijan,Sales,2024-05-05,24.0,730000,597000,94.4,Pending,High School
+E0874,Employee_874,39.0,Female,Bukhara,Operations,2023-05-23,15.0,867000,368000,57.2,Inactive,Master
+E0875,Employee_875,31.0,Male,Namangan,Operations,,10.0,1729000,236000,58.5,Pending,PhD
+E0876,Employee_876,55.0,Female,Khiva,Finance,2023-06-18,28.0,678000,46000,79.9,Pending,High School
+E0877,Employee_877,28.0,Male,Andijan,HR,2021-02-04,1.0,1879000,17000,55.6,Active,Master
+E0878,Employee_878,34.0,Male,Tashkent,Sales,2023-06-11,11.0,1577000,157000,98.8,Active,High School
+E0879,Employee_879,30.0,Male,,IT,2023-11-14,9.0,,249000,84.6,Active,Master
+E0880,Employee_880,27.0,Male,tashkent,IT,2024-07-06,0.0,1008000,40000,66.4,Active,Bachelor
+E0881,Employee_881,55.0,Female,Khiva,Finance,2024-12-08,29.0,2357000,280000,58.4,,
+E0882,Employee_882,26.0,Male,Bukhara,Marketing,2022-09-11,4.0,2396000,498000,86.1,Inactive,Bachelor
+E0883,Employee_883,46.0,Male,Nukus,Support,2023-08-30,25.0,687000,656000,56.3,Pending,High School
+E0884,Employee_884,51.0,Male,,Operations,2024-12-13,31.0,1934000,314000,72.7,Pending,High School
+E0885,Employee_885,44.0,Male,Andijan,Operations,2022-06-19,20.0,2287000,138000,67.1,Active,PhD
+E0886,Employee_886,28.0,Female,Namangan,Marketing,2022-09-06,4.0,501000,,59.8,Inactive,High School
+E0887,Employee_887,47.0,Male,Nukus,Support,2023-08-17,23.0,1352000,522000,72.3,Active,Master
+E0888,Employee_888,56.0,Male,Samarkand,Support,2021-06-15,29.0,1112000,425000,68.3,Inactive,
+E0889,Employee_889,60.0,,Fergana,Support,2024-09-07,35.0,,672000,86.0,Inactive,
+E0890,Employee_890,30.0,Male,Nukus,Sales,2022-07-20,7.0,2147000,584000,76.9,Pending,
+E0891,Employee_891,30.0,Male,Fergana,Finance,2021-09-06,3.0,1008000,62000,95.0,Pending,Bachelor
+E0892,Employee_892,53.0,Female,Namangan,,2023-09-09,33.0,,116000,84.3,Pending,High School
+E0893,Employee_893,56.0,Female,Namangan,finance ,2021-12-25,35.0,949000,386000,87.0,Active,Master
+E0894,Employee_894,30.0,Female,Bukhara,HR,2023-09-10,2.0,767000,59000,76.6,Active,Master
+E0895,Employee_895,23.0,Male,Namangan,Finance,,1.0,634000,548000,98.3,Active,PhD
+E0896,Employee_896,37.0,Female,Andijan,Finance,2024-04-19,12.0,,415000,81.5,Pending,High School
+E0897,Employee_897,46.0,,Bukhara,HR,2022-03-08,25.0,1629000,296000,60.9,Pending,Master
+E0898,Employee_898,25.0,Male,Khiva,HR,2022-10-09,4.0,1327000,248000,77.5,,High School
+E0899,Employee_899,53.0,Male,Samarkand,Finance,2023-04-21,30.0,761000,429000,93.5,Active,Bachelor
+E0900,Employee_900,43.0,Female,Fergana,Marketing,2022-10-24,,1031000,248000,91.3,Active,Bachelor
+E0901,Employee_901,36.0,Male,Bukhara,IT,2023-03-03,13.0,1886000,460000,66.2,Inactive,Bachelor
+E0902,Employee_902,52.0,Male,SAMARKAND,HR,,25.0,1409000,410000,63.5,Inactive,PhD
+E0903,Employee_903,22.0,Female,Samarkand,Support,2024-11-29,0.0,1747000,503000,63.6,Active,Bachelor
+E0904,Employee_904,42.0,Female,Tashkent,Support,2023-12-21,18.0,574000,130000,82.7,Inactive,Bachelor
+E0905,Employee_905,51.0,Male,Khiva,Operations,2024-12-19,25.0,870000,354000,,Archived,Master
+E0906,Employee_906,55.0,Female,Namangan,IT,2022-10-15,27.0,573000,344000,87.4,Pending,Master
+E0907,Employee_907,32.0,Male,Samarkand,Marketing,2021-01-15,12.0,667000,147000,72.6,Inactive,Bachelor
+E0908,Employee_908,55.0,Male,Bukhara,Marketing,2022-11-26,33.0,1207000,639000,86.4,Inactive,Master
+E0909,Employee_909,,Female,Samarkand,Sales,2021-03-22,36.0,2477000,185000,63.9,,Master
+E0910,Employee_910,30.0,,Nukus,Support,2025-02-27,7.0,630000,572000,75.1,Active,PhD
+E0911,Employee_911,33.0,Female,Bukhara,Operations,2021-10-26,10.0,1802000,489000,67.3,Pending,High School
+E0912,Employee_912,60.0,Male,Khiva,Operations,2021-11-18,39.0,988000,398000,96.7,Inactive,High School
+E0913,Employee_913,36.0,Female,Tashkent,Finance,2021-12-12,12.0,561000,76000,96.6,Inactive,High School
+E0914,Employee_914,57.0,Female,,,2025-03-04,32.0,726000,144000,69.5,Inactive,Bachelor
+E0915,Employee_915,,Male,Tashkent,Support,2024-10-11,32.0,1861000,258000,93.1,Pending,PhD
+E0916,Employee_916,58.0,Female,Tashkent,Marketing,2024-07-27,31.0,997000,434000,83.6,Active,
+E0917,Employee_917,47.0,Male,Fergana,Marketing,2021-11-23,22.0,1453000,427000,97.3,Inactive,Bachelor
+E0918,Employee_918,55.0,Male,Bukhara,HR,2024-07-18,,2066000,255000,58.2,Active,Bachelor
+E0919,Employee_919,47.0,Female,Bukhara,HR,2023-10-18,,2447000,165000,92.0,Active,Master
+E0920,Employee_920,21.0,Male,Tashkent,HR,2023-02-04,0.0,2030000,,96.7,Inactive,High School
+E0921,Employee_921,47.0,Male,Fergana,Support,2023-05-24,26.0,823000,60000,87.0,Inactive,High School
+E0922,Employee_922,24.0,Male,Tashkent,Support,,0.0,1210000,343000,57.4,Active,Master
+E0923,Employee_923,,Female,Khiva,Sales,2021-05-25,18.0,722000,606000,94.2,Inactive,Master
+E0924,Employee_924,36.0,Female,Fergana,IT,,10.0,,278000,65.5,Active,Master
+E0925,Employee_925,27.0,Female,Namangan,Operations,2022-11-22,6.0,512000,$120000,89.6,Active,High School
+E0926,Employee_926,39.0,Male,Fergana,Marketing,2023-08-12,16.0,2489000,341000,58.1,Inactive,Master
+E0927,Employee_927,49.0,Male,Khiva,Support,2022-04-02,29.0,1419000,317000,64.9,Active,Bachelor
+E0928,Employee_928,47.0,Female,Tashkent,,2022-07-29,27.0,1892000,694000,57.6,Inactive,
+E0929,Employee_929,58.0,Male,Nukus,,2021-07-19,38.0,,43000,62.5,Inactive,Master
+E0930,Employee_930,33.0,Female,,Marketing,2025-03-12,9.0,961000,218000,86.5,Inactive,Bachelor
+E0931,Employee_931,25.0,Male,Tashkent,Marketing,2022-05-31,1.0,1696000,399000,58.0,Inactive,Bachelor
+E0932,Employee_932,26.0,Female,Tashkent,Sales,2024-02-28,2.0,2173000,269000,62.2,Active,High School
+E0933,Employee_933,27.0,Female,Namangan,,,6.0,,625000,71.1,Active,Bachelor
+E0934,Employee_934,31.0,Male,Nukus,Marketing,2024-04-18,11.0,2498000,$120000,66.6,,PhD
+E0935,Employee_935,41.0,Female,Khiva,Support,2023-09-14,15.0,2461000,589000,75.2,Active,High School
+E0936,Employee_936,45.0,Male,Khiva,IT,2023-04-04,21.0,1609000,"35,000",58.8,Inactive,PhD
+E0937,Employee_937,49.0,Male,Khiva,Sales,2022-11-15,28.0,1330000,86000,61.9,Inactive,PhD
+E0938,Employee_938,38.0,Female,Namangan,HR,2024-06-25,15.0,,358000,59.3,Active,Bachelor
+E0939,Employee_939,48.0,Female,Namangan,Marketing,,,2142000,120000,98.7,Active,
+E0940,Employee_940,36.0,Male,Bukhara,Operations,2021-07-05,9.0,2295000,375000,78.4,Pending,Master
+E0941,Employee_941,50.0,Female,Bukhara,Finance,2022-09-14,26.0,2431000,521000,68.9,Active,PhD
+E0942,Employee_942,57.0,Male,Khiva,Finance,2021-08-07,32.0,688000,328000,84.4,Active,High School
+E0943,Employee_943,50.0,Male,Tashkent,IT,2022-09-29,25.0,2171000,230000,83.1,Pending,Bachelor
+E0944,Employee_944,55.0,Female,Fergana,Operations,2022-04-09,28.0,694000,7000000,55.6,Active,High School
+E0945,Employee_945,53.0,Male,Khiva,Support,2024-03-08,33.0,558000,216000,89.8,Inactive,
+E0946,Employee_946,29.0,Male,Andijan ,Finance,2025-02-17,6.0,740000,90000,69.5,Inactive,High School
+E0947,Employee_947,,Female,Khiva,Support,2022-05-30,12.0,1584000,440000,97.9,Active,High School
+E0948,Employee_948,40.0,Male,Bukhara,Sales,2025-04-10,12.0,1299000,163000,67.1,Inactive,Master
+E0949,Employee_949,42.0,Male,Andijan,Operations,2021-08-23,,2034000,630000,56.0,Inactive,Master
+E0950,Employee_950,35.0,Male,Nukus,HR,2023-07-04,7.0,1927000,409000,75.7,Active,Bachelor
+E0951,Employee_951,59.0,Male,Khiva,Operations,2022-11-28,35.0,1561000,483000,98.2,Inactive,Master
+E0952,Employee_952,45.0,Female,Fergana,HR,2021-10-28,19.0,2188000,322000,62.1,Active,Bachelor
+E0953,Employee_953,23.0,Male,Bukhara,Support,2023-12-09,1.0,2322000,141000,57.1,Inactive,Master
+E0954,Employee_954,38.0,Female,Samarkand,Marketing,2024-11-20,10.0,1412000,599000,58.9,Inactive,PhD
+E0955,Employee_955,38.0,Male,Bukhara,HR,2024-03-10,10.0,1464000,615000,60.8,Pending,Master
+E0956,Employee_956,34.0,,Tashkent,Marketing,2022-12-12,12.0,1018000,687000,78.2,Active,High School
+E0957,Employee_957,45.0,Male,Nukus,Finance,2023-11-11,23.0,2228000,379000,84.0,Inactive,Master
+E0958,Employee_958,42.0,Male,Bukhara,IT,2023-12-22,21.0,1016000,362000,59.8,Pending,Bachelor
+E0959,Employee_959,24.0,Female,Samarkand,IT,2022-04-05,0.0,2089000,,85.5,Active,PhD
+E0960,Employee_960,52.0,Female,Tashkent,HR,2021-02-06,25.0,1639000,81000,88.3,Active,Bachelor
+E0961,Employee_961,,Male,Samarkand,Finance,2021-08-23,2.0,939000,369000,81.1,Active,Master
+E0962,Employee_962,,Female,Khiva,Operations,2022-04-17,10.0,1363000,241000,72.3,Pending,High School
+E0963,Employee_963,54.0,Male,Fergana,,2023-07-22,28.0,1443000,608000,81.3,Inactive,PhD
+E0964,Employee_964,55.0,Male,Namangan,HR,2022-03-05,32.0,1035000,524000,89.4,Active,Master
+E0965,Employee_965,24.0,,Bukhara,IT,2021-10-16,2.0,1396000,,83.5,,Bachelor
+E0966,Employee_966,,Male,Tashkent,HR,2021-04-27,33.0,1982000,299000,77.4,Pending,Master
+E0967,Employee_967,53.0,Male,Andijan,Marketing,2021-01-03,28.0,,262000,66.5,Inactive,High School
+E0968,Employee_968,33.0,Male,Khiva,Sales,2023-03-13,9.0,1542000,61000,97.9,Active,Bachelor
+E0969,Employee_969,44.0,Male,Samarkand,Finance,2021-06-12,18.0,2323000,524000,92.8,Pending,High School
+E0970,Employee_970,52.0,Male,Namangan,,2023-11-04,24.0,2232000,302000,71.7,Inactive,Master
+E0971,Employee_971,36.0,Female,Fergana,Support,2024-04-21,9.0,911000,299000,62.8,Active,High School
+E0972,Employee_972,53.0,Male,Namangan,,2021-11-05,30.0,1459000,112000,77.3,Active,PhD
+E0973,Employee_973,55.0,Female,Namangan,Operations,2023-12-30,29.0,1364000,93000,72.9,Active,Master
+E0974,Employee_974,27.0,Male,Samarkand,Support,2024-06-09,5.0,923000,550000,56.8,Pending,High School
+E0975,Employee_975,34.0,Female,Namangan,Finance,01-29-2025,10.0,1254000,,55.7,Inactive,High School
+E0976,Employee_976,38.0,Male,Bukhara,HR,2021-08-11,15.0,,267000,64.0,Active,High School
+E0977,Employee_977,52.0,Male,Andijan,Marketing,2024-02-21,30.0,,511000,90.3,,PhD
+E0978,Employee_978,51.0,Male,Andijan,Operations,2021-12-24,23.0,776000,299000,74.7,Pending,High School
+E0979,Employee_979,56.0,Female,Andijan,Support,2024-11-05,31.0,1675000,224000,95.5,Active,
+E0980,Employee_980,30.0,Female,Andijan,Support,2022-07-12,2.0,1626000,388000,74.2,Inactive,High School
+E0981,Employee_981,35.0,Male,Khiva,Operations,2025-04-17,12.0,1299000,169000,59.9,Inactive,Bachelor
+E0982,Employee_982,51.0,Female,,Operations,2023-09-24,26.0,$980000,501000,78.4,Pending,High School
+E0983,Employee_983,55.0,Female,Andijan,HR,2025-02-17,30.0,1266000,440000,88.2,,Master
+E0984,Employee_984,47.0,Female,Samarkand,Support,2021-06-10,24.0,2423000,536000,60.0,Inactive,Master
+E0985,Employee_985,43.0,,Fergana,IT,2022-12-29,16.0,1668000,55000,63.6,Pending,PhD
+E0986,Employee_986,52.0,Male,Tashkent,HR,2024-09-26,25.0,1118000,647000,78.9,Pending,PhD
+E0987,Employee_987,29.0,Female,Samarkand,IT,11/11/2021,7.0,644000,594000,66.0,Active,Master
+E0988,Employee_988,55.0,,Tashkent,IT,2021-11-10,32.0,929000,280000,58.1,Active,High School
+E0989,Employee_989,35.0,Female,Khiva,Operations,2021-06-22,8.0,981000,,68.1,Active,High School
+E0990,Employee_990,54.0,Male,Samarkand,Support,2023-01-13,28.0,504000,31000,95.7,Active,PhD
+E0991,Employee_991,54.0,Female,tashkent,Marketing,2024-03-29,26.0,875000,359000,95.2,Pending,Master
+E0992,Employee_992,,Female,Tashkent,IT,2022-03-21,0.0,1687000,110000,93.1,Active,PhD
+E0993,Employee_993,48.0,Male,Namangan,Marketing,2022-10-09,25.0,943000,628000,86.2,Pending,High School
+E0994,Employee_994,33.0,Female,Khiva,IT,2024-02-10,13.0,504000,413000,89.1,Pending,
+E0995,Employee_995,55.0,Male,,IT,2023-01-09,30.0,1383000,486000,77.5,Active,PhD
+E0996,Employee_996,24.0,Female,Nukus,HR,2025-02-20,0.0,682000,682000,96.2,Active,PhD
+E0997,Employee_997,34.0,Female,Namangan,Operations,2022-07-17,9.0,,524000,64.2,Pending,PhD
+E0998,Employee_998,34.0,Male,Samarkand,Finance,2024-05-05,14.0, 1500000 ,353000,61.9,Active,PhD
+E0999,Employee_999,59.0,Female,Nukus,Operations,2022-03-14,37.0,634000,583000,86.9,Inactive,PhD
+E1000,Employee_1000,48.0,Female,Andijan,IT,2023-04-16,27.0,871000,297000,58.9,Inactive,Bachelor
+E1001,Employee_1001,25.0,Male,Khiva,Operations,,0.0,873000,77000,74.7,Active,
+E1002,Employee_1002,32.0,Female,Nukus,Sales,2024-10-22,4.0,1944000,418000,88.8,Active,PhD
+E1003,Employee_1003,34.0,Male,Khiva,Sales,2023-04-30,14.0,2017000,304000,87.0,,Bachelor
+E1004,Employee_1004,25.0,Male,Nukus,Sales,2025-01-30,2.0,,278000,83.3,,Bachelor
+E1005,Employee_1005,36.0,Male,Andijan,Operations,2022-08-24,9.0,1721000,648000,76.8,Active,PhD
+E1006,Employee_1006,36.0,Female,Andijan,IT,2021-03-27,11.0,2290000,315000,98.0,Pending,Master
+E1007,Employee_1007,22.0,Male,Bukhara,Sales,2022-06-12,2.0,1529000,609000,55.9,Pending,PhD
+E1008,Employee_1008,42.0,Male,Andijan,Operations,2022-03-28,19.0,1637000,8000,89.5,,Bachelor
+E1009,Employee_1009,51.0,Female,Fergana,IT,2021-12-11,27.0,801000,,79.5,Active,High School
+E1010,Employee_1010,25.0,Male,Fergana,Sales,2023-07-01,0.0,1888000,690000,63.3,Pending,PhD
+E1011,Employee_1011,32.0,Female,Andijan,Marketing,2021-02-06,10.0,502000,468000,,Active,High School
+E1012,Employee_1012,30.0,Male,Tashkent,Operations,,3.0,2052000,17000,82.7,Active,Bachelor
+E1013,Employee_1013,51.0,Male,Fergana,HR,2025-03-02,,749000,424000,82.4,Inactive,Bachelor
+E1014,Employee_1014,41.0,Male,Samarkand,IT,2023-08-19,14.0,528000,468000,62.9,Inactive,High School
+E1015,Employee_1015,58.0,Female,Samarkand,HR,2023-05-27,36.0,1589000,390000,74.2,Inactive,Bachelor
+E1016,Employee_1016,36.0,Female,Samarkand,Sales ,2022-04-17,16.0,687000,35000,86.1,Active,Bachelor
+E1017,Employee_1017,30.0,,Khiva,Marketing,2023-01-14,3.0,573000,19000,61.6,Inactive,High School
+E1018,Employee_1018,43.0,Male,Andijan,Support,2021-06-20,17.0,745000,257000,56.1,Inactive,Bachelor
+E1019,Employee_1019,39.0,Male,Andijan,HR,2022-05-11,16.0,1201000,,94.8,Pending,Bachelor
+E1020,Employee_1020,50.0,Male,Tashkent,Finance,2021-08-03,23.0,948000,156000,98.0,Pending,
+E1021,Employee_1021,41.0,Male,Khiva,,2024-01-08,16.0,2251000,345000,62.5,Pending,Bachelor
+E1022,Employee_1022,57.0,Female,Fergana,HR,2023-01-22,33.0,1535000,504000,70.0,Pending,PhD
+E1023,Employee_1023,43.0,Male,Bukhara,Support,2023-06-28,19.0,1423000,132000,58.9,Active,High School
+E1024,Employee_1024,21.0,Male,Khiva,HR,2024-04-28,0.0,1516000,,88.2,Pending,PhD
+E1025,Employee_1025,49.0,Female,Samarkand,Marketing,2024-04-07,21.0,1204000,405000,56.9,Pending,High School
+E1026,Employee_1026,46.0,Female,Andijan,Operations,2024-04-08,18.0,2195000,521000,84.7,Active,High School
+E1027,Employee_1027,59.0,Male,Khiva,Support,,34.0,677000,93000,58.8,Pending,High School
+E1028,Employee_1028,,Female,Namangan,,2025-01-02,13.0,2497000,62000,91.8,Pending,PhD
+E1029,Employee_1029,47.0,Male,Fergana,Sales,2023-12-15,19.0,2339000,249000,65.8,Pending,Bachelor
+E1030,Employee_1030,55.0,Male,Andijan,Support,2024-05-15,30.0,808000,611000,72.6,Pending,Master
+E1031,Employee_1031,33.0,Male,Namangan,HR,2022-12-01,11.0,2261000,165000,76.9,Pending,PhD
+E1032,Employee_1032,55.0,,Nukus,HR,2022-12-31,32.0,1227000,625000,67.1,Inactive,PhD
+E1033,Employee_1033,40.0,Female,Khiva,IT,2025-02-12,15.0,1616000,120000,97.6,Pending,Bachelor
+E1034,Employee_1034,44.0,Female,Samarkand,Sales,2022-01-06,20.0,2470000,565000,95.6,Active,Master
+E1035,Employee_1035,30.0,Male,Fergana,,2024-08-27,6.0,1304000,548000,76.4,Active,Bachelor
+E1036,Employee_1036,53.0,Female,Tashkent,Sales,2022-05-26,31.0,1374000,,83.2,Active,PhD
+E1037,Employee_1037,33.0,Female,Khiva,HR,2025-03-30,12.0,1819000,79000,,Active,Bachelor
+E1038,Employee_1038,55.0,Male,Andijan,Support,2024-03-21,29.0,2193000,278000,59.4,Active,High School
+E1039,Employee_1039,24.0,Male,Samarkand,Sales,,0.0,1338000,616000,80.0,Pending,Bachelor
+E1040,Employee_1040,30.0,,Khiva,Operations,,4.0,2410000,,71.7,Pending,Bachelor
+E1041,Employee_1041,41.0,Female,Andijan,Support,2022-06-30,14.0,521000,624000,64.3,Pending,PhD
+E1042,Employee_1042,37.0,Female,,IT,2023-07-21,14.0,2224000,13000,63.5,Active,Bachelor
+E1043,Employee_1043,32.0,Male,Andijan,Operations,2024-06-01,9.0,2166000,567000,79.7,Pending,PhD
+E1044,Employee_1044,27.0,Female,Samarkand,Marketing,2023-12-20,6.0,919000,470000,95.7,Pending,PhD
+E1045,Employee_1045,43.0,Male,Bukhara,Finance,2022-10-16,15.0,1836000,118000,80.7,,Bachelor
+E1046,Employee_1046,57.0,Female,,Operations,2022-01-10,36.0,1824000,198000,84.6,Inactive,Bachelor
+E1047,Employee_1047,,Male,Nukus,Support,2023-11-12,23.0,569000,97000,95.1,Pending,
+E1048,Employee_1048,48.0,Female,Fergana,HR,2021-10-02,24.0,2401000,210000,75.1,Inactive,PhD
+E1049,Employee_1049,55.0,Female,Fergana,Finance,not_a_date,27.0,"2,100,000",562000,98.4,Inactive,Bachelor
+E1050,Employee_1050,44.0,Female,Tashkent,Support,2024-07-04,18.0,1300000,321000,90.5,Active,Master
+E1051,Employee_1051,44.0,Male,Bukhara,Support,2022-07-27,24.0,2047000,461000,75.3,Inactive,
+E1052,Employee_1052,47.0,Male,Khiva,Finance,2024-04-24,19.0,2126000,349000,180.0,Pending,PhD
+E1053,Employee_1053,52.0,Male,Khiva,Sales,2025-01-13,32.0,2255000,547000,,Active,PhD
+E1054,Employee_1054,52.0,Male,Samarkand,Marketing,2024-12-10,28.0,2382000,208000,,,High School
+E1055,Employee_1055,29.0,Male,,,2021-12-18,4.0,1544000,214000,84.5,Active,PhD
+E1056,Employee_1056,37.0,Female,Khiva,Support,2022-12-06,11.0,981000,12000,66.7,Active,Bachelor
+E1057,Employee_1057,40.0,Female,Fergana,Finance,2023-04-29,12.0,2152000,269000,80.0,Inactive,Master
+E1058,Employee_1058,,Female,Nukus,Support,2022-04-06,3.0,951000,604000,73.9,Active,Master
+E1059,Employee_1059,57.0,Male,Nukus,Operations,2022-08-29,31.0,1688000,474000,55.8,Pending,Master
+E1060,Employee_1060,36.0,Male,Fergana,IT,2023-08-22,11.0,1046000,,88.1,Active,
+E1061,Employee_1061,49.0,Male,Fergana,HR,2024-06-15,24.0,799000,645000,57.0,Inactive,Bachelor
+E1062,Employee_1062,58.0,Male,Nukus,Finance,2023-02-01,32.0,,1000,,Inactive,High School
+E1063,Employee_1063,39.0,Female,Bukhara,Support,2023-06-03,17.0,1731000,264000,89.6,Inactive,Bachelor
+E1064,Employee_1064,58.0,,Samarkand,Operations,2023-03-28,36.0,,695000,65.2,,High School
+E1065,Employee_1065,44.0,Female,Khiva,Operations,2021-04-06,21.0,1359000,471000,98.4,Pending,PhD
+E1066,Employee_1066,35.0,Male,Namangan,Sales,2025-03-10,12.0,674000,421000,80.8,,Bachelor
+E1067,Employee_1067,43.0,Female,Tashkent,Support,2025-04-25,20.0,1707000,68000,,Inactive,High School
+E1068,Employee_1068,50.0,,Nukus,Operations,2021-11-20,22.0,915000,,,Pending,PhD
+E1069,Employee_1069,27.0,Female,Andijan,HR,2025-05-11,4.0,1451000,279000,72.7,Pending,High School
+E1070,Employee_1070,51.0,Female,Khiva,Support,2025-04-23,29.0,1333000,210000,94.5,Pending,Master
+E1071,Employee_1071,40.0,Female,Andijan,HR,2021-09-20,14.0,1631000,397000,74.4,Inactive,PhD
+E1072,Employee_1072,49.0,Female,Khiva,Marketing,2025-02-13,29.0,643000,272000,73.4,Active,High School
+E1073,Employee_1073,60.0,Male,Khiva,Support,2024-12-10,37.0,1661000,354000,83.1,Inactive,Master
+E1074,Employee_1074,14.0,Female,Andijan,Marketing,,23.0,1962000,645000,83.9,Inactive,Bachelor
+E1075,Employee_1075,29.0,,Khiva,HR,2021-02-04,8.0,1523000,238000,87.9,Pending,PhD
+E1076,Employee_1076,37.0,Male,Samarkand,HR,2024-02-13,11.0,680000,9000,66.9,Active,High School
+E1077,Employee_1077,33.0,Male,Fergana,Marketing,2023-04-24,7.0,1838000,610000,56.7,Active,Master
+E1078,Employee_1078,39.0,Male,Tashkent,Marketing,,14.0,1893000,371000,92.0,Active,Bachelor
+E1079,Employee_1079,40.0,Male,Khiva,Sales,2022-03-15,17.0,1548000,309000,79.5,Pending,Bachelor
+E1080,Employee_1080,39.0,Male,Fergana,Marketing,2021-05-18,19.0,2351000,520000,90.3,Active,PhD
+E1081,Employee_1081,24.0,Female,Nukus,HR,2022-07-16,1.0,2035000,655000,68.3,Pending,Master
+E1082,Employee_1082,34.0,Female,Namangan,HR,2021-09-08,7.0,1568000,584000,75.8,Inactive,Bachelor
+E1083,Employee_1083,31.0,Female,Andijan,HR,2023-03-14,7.0,1604000,293000,76.0,Active,Bachelor
+E1084,Employee_1084,33.0,Female,, sales ,2021-11-03,9.0,1211000,307000,90.4,Pending,Master
+E1085,Employee_1085,30.0,Male,Samarkand,Marketing,2025-02-13,6.0,1988000,437000,62.6,Inactive,Master
+E1086,Employee_1086,41.0,Male,Samarkand,IT,2024-08-16,21.0,1280000,275000,82.1,Active,High School
+E1087,Employee_1087,28.0,Female,Fergana,Sales,2025-02-17,5.0,1776000,306000,74.7,Active,PhD
+E1088,Employee_1088,34.0,Female,Fergana,Marketing,2022-02-16,10.0,1146000,143000,77.0,Pending,High School
+E1089,Employee_1089,23.0,Male,Tashkent,HR,2023-05-09,0.0,1823000,123000,93.3,Inactive,Bachelor
+E1090,Employee_1090,,Male,Samarkand,HR,2025-05-01,28.0,2234000,84000,95.0,Inactive,High School
+E1091,Employee_1091,29.0,Female,Fergana,Sales,2024-03-06,3.0,807000,644000,76.0,Inactive,High School
+E1092,Employee_1092,29.0,Female,Andijan,HR,2021-12-12,8.0,2311000,67000,68.0,Pending,Master
+E1093,Employee_1093,29.0,Male,Nukus,Operations,2022-01-03,8.0,2481000,357000,80.6,Active,Master
+E1094,Employee_1094,28.0,,Namangan,IT,2023-03-10,6.0,557000,282000,,Pending,
+E1095,Employee_1095,,Male,Fergana,Operations,2023-08-26,18.0,608000,556000,96.6,Active,Master
+E1096,Employee_1096,40.0,Male,Fergana,Marketing,2024-10-19,12.0,1781000,351000,67.8,Pending,Bachelor
+E1097,Employee_1097,30.0,Female,Samarkand,Marketing,2021-02-28,,1926000,"35,000",95.9,Active,Bachelor
+E1098,Employee_1098,37.0,,Nukus,Support,2024-09-29,9.0,1552000,451000,59.1,Active,Bachelor
+E1099,Employee_1099,38.0,Male,Samarkand,,2024-06-20,,615000,564000,83.2,Pending,PhD
+E1100,Employee_1100,58.0,Female,Tashkent,HR,2021-10-19,30.0,,190000,84.2,Inactive,
+E1101,Employee_1101,50.0,Male,Samarkand,HR,2021-11-10,29.0,979000,594000,75.0,Pending,Master
+E1102,Employee_1102,49.0,Female,Tashkent,Support,2021-12-22,26.0,1320000,665000,64.4,Pending,PhD
+E1103,Employee_1103,36.0,Female,Bukhara,Support,2023-01-31,16.0,755000,581000,65.0,Inactive,
+E1104,Employee_1104,32.0,Male,Khiva,Marketing,,6.0,1011000,585000,78.9,Pending,Bachelor
+E1105,Employee_1105,37.0,Female,Samarkand,,,10.0,589000,620000,68.4,Pending,PhD
+E1106,Employee_1106,25.0,Female,Khiva,HR,,1.0,1826000,368000,67.7,Active,PhD
+E1107,Employee_1107,47.0,Female,Bukhara,HR,2024-04-01,21.0,694000,529000,84.5,Pending,Master
+E1108,Employee_1108,41.0,Male,Nukus,IT,,15.0,1279000,,84.8,Active,Master
+E1109,Employee_1109,36.0,Male,Andijan,IT,2023-04-06,11.0,1010000,591000,80.7,Inactive,PhD
+E1110,Employee_1110,54.0,Female,Khiva,Support,2023-12-08,28.0,1006000,360000,72.2,Inactive,PhD
+E1111,Employee_1111,42.0,Female,Fergana,Sales,2022-06-05,22.0,910000,557000,63.2,Pending,Bachelor
+E1112,Employee_1112,57.0,Male,Nukus,Operations,2023-06-09,31.0,892000,507000,86.8,Archived,Bachelor
+E1113,Employee_1113,45.0,Female,Nukus,hr,2022-12-01,20.0,835000,653000,85.5,Pending,Master
+E1114,Employee_1114,60.0,Female,Samarkand,Marketing,2023-05-13,35.0,1523000,606000,91.8,Active,High School
+E1115,Employee_1115,56.0,Male,Nukus,Sales,2021-12-14,30.0,640000,97000,71.3,Inactive,Master
+E1116,Employee_1116,26.0,Female,Andijan,Sales,2023-02-01,4.0,1389000,124000,67.9,Active,Bachelor
+E1117,Employee_1117,26.0,Male,Fergana,IT,2023-03-11,3.0,809000,269000,60.0,Active,PhD
+E1118,Employee_1118,59.0,Female,Namangan,Operations,2021-04-05,34.0,1008000,480000,81.4,Inactive,PhD
+E1119,Employee_1119,42.0,Female,Bukhara,Support,2023-02-03,14.0,1818000,338000,87.8,Pending,Master
+E1120,Employee_1120,49.0,Female,Andijan,Support,2021-11-21,29.0,1237000,649000,97.4,Pending,High School
+E1121,Employee_1121,47.0,Male,Namangan,Sales,2024-01-16,27.0,2132000,660000,64.9,Pending,
+E1122,Employee_1122,33.0,Male,Andijan,Operations,2022-08-18,13.0,911000,533000,76.2,Pending,Bachelor
+E1123,Employee_1123,53.0,Male,Andijan,Finance,,,804000,238000,56.3,Active,
+E1124,Employee_1124,27.0,Male,Andijan,Support,2021-10-10,1.0,2303000,359000,59.0,Inactive,Master
+E1125,Employee_1125,45.0,Female,Namangan,,2022-06-28,25.0,970000,601000,73.8,Active,PhD
+E1126,Employee_1126,48.0,Female,Andijan,HR,2023-02-13,,2489000,493000,70.4,Active,PhD
+E1127,Employee_1127,55.0,Male,Tashkent,IT,2022-03-07,30.0,2242000,457000,76.8,Active,High School
+E1128,Employee_1128,53.0,Male,,IT,02-07-2022,27.0,1563000,210000,91.8,Inactive,
+E1129,Employee_1129,43.0,Female,Tashkent,IT,2023-10-04,23.0,525000,,60.1,Active,Bachelor
+E1130,Employee_1130,42.0,Female,Namangan,Finance,,18.0,1143000,262000,70.4,Pending,PhD
+E1131,Employee_1131,55.0,Female,,Operations,2023-01-05,31.0,1033000,252000,66.7,Inactive,PhD
+E1132,Employee_1132,28.0,Female,Samarkand,,2022-07-17,2.0,1515000,277000,85.3,Inactive,High School
+E1133,Employee_1133,54.0,Male,Tashkent,Finance,2024-03-30,31.0,2126000,460000,83.6,Active,Master
+E1134,Employee_1134,33.0,Male,Bukhara,HR,2022-06-13,11.0,1059000,255000,72.8,Active,Bachelor
+E1135,Employee_1135,25.0,Female,Nukus,Finance,2023-08-24,4.0,2283000,396000,57.7,Inactive,Master
+E1136,Employee_1136,29.0,Female,Namangan,IT,2022-10-20,3.0,1133000,115000,69.3,Pending,Master
+E1137,Employee_1137,52.0,Male,Andijan,Operations,2023-09-09,30.0,1553000,203000,79.3,Active,High School
+E1138,Employee_1138,38.0,Male,Nukus,HR,2024-02-17,15.0,2274000,555000,60.3,Inactive,Master
+E1139,Employee_1139,53.0,Female,Andijan,HR,2024-05-10,25.0,2151000,91000,71.3,Pending,
+E1140,Employee_1140,,Male,Bukhara,Operations,2021-06-03,15.0,2114000,373000,90.1,Pending,PhD
+E1141,Employee_1141,36.0,Male,Andijan,Marketing,2024-11-24,14.0,1020000,608000,77.9,Active,PhD
+E1142,Employee_1142,60.0,Male,Nukus,Finance,2022-02-06,36.0,938000,229000,64.9,Inactive,High School
+E1143,Employee_1143,40.0,Male,Namangan,Marketing,2021-11-23,15.0,1594000,186000,59.5,Inactive,PhD
+E1144,Employee_1144,35.0,Female,Nukus,Sales,2024-03-25,14.0,2142000,244000,,Active,High School
+E1145,Employee_1145,21.0,Male,,Operations,2023-04-04,0.0,1914000,664000,85.0,Inactive,PhD
+E1146,Employee_1146,38.0,Male,Samarkand,Sales,2023-11-25,17.0,1995000,55000,85.4,,Master
+E1147,Employee_1147,49.0,Male,Khiva,Operations,2021-10-01,26.0,1055000,364000,65.9,Pending,Master
+E1148,Employee_1148,21.0,Male,Samarkand,Operations,2022-09-18,0.0,665000,660000,85.1,Pending,Master
+E1149,Employee_1149,56.0,Male,Fergana,Operations,2022-10-12,31.0,1796000,322000,69.4,Pending,Master
+E1150,Employee_1150,32.0,Female,Namangan,Sales,2024-06-16,6.0,1866000,316000,78.1,Pending,High School
+E1151,Employee_1151,46.0,Female,Fergana,HR,2023-06-27,21.0,1484000,459000,80.2,Active,High School
+E1152,Employee_1152,39.0,Male,Bukhara,,2021-07-29,14.0,783000,397000,78.0,Pending,Bachelor
+E1153,Employee_1153,56.0,Male,Bukhara,Support,2022-06-23,35.0,1547000,325000,80.8,Active,High School
+E1154,Employee_1154,58.0,Male,Khiva,Sales,2021-07-25,32.0,1867000,108000,98.9,Inactive,PhD
+E1155,Employee_1155,23.0,Female,Andijan,IT,,0.0,1693000,651000,71.4,Inactive,PhD
+E1156,Employee_1156,52.0,Male,Samarkand,IT,2021-12-15,,1486000,651000,63.0,Pending,Master
+E1157,Employee_1157,27.0,Male,Tashkent,Support,2022-04-23,2.0,2109000,434000,62.1,Active,High School
+E1158,Employee_1158,,Male,Bukhara,IT,2023-07-06,27.0,,16000,92.7,Inactive,High School
+E1159,Employee_1159,46.0,,Bukhara,Finance,2023-10-13,26.0,2413000,485000,73.9,,Bachelor
+E1160,Employee_1160,58.0,Male,Samarkand,,2024-03-17,31.0,1244000,8000,62.2,Inactive,Master
+E1161,Employee_1161,59.0,Male,Samarkand,Finance,2021-09-24,32.0,1668000,260000,78.9,Inactive,
+E1162,Employee_1162,44.0,Female,Bukhara,Support,2022-05-04,,881000,,82.1,Inactive,High School
+E1163,Employee_1163,37.0,Female,Andijan,Marketing,2024-08-06,9.0,951000,609000,64.6,Inactive,Master
+E1164,Employee_1164,39.0,Male,Khiva,Finance,2024-04-01,12.0,2330000,78000,75.7,Pending,High School
+E1165,Employee_1165,58.0,Female,Tashkent,HR,2022-03-08,34.0,2323000,356000,58.2,Inactive,Bachelor
+E1166,Employee_1166,35.0,Female,,Support,2022-07-10,8.0,,458000,67.8,Pending,
+E1167,Employee_1167,32.0,Male,Nukus,Marketing,2022-12-15,,1091000,621000,70.8,Active,PhD
+E1168,Employee_1168,28.0,Female,Khiva,,2024-04-13,0.0,1124000,62000,68.4,Pending,Master
+E1169,Employee_1169,37.0,Male,Nukus,Operations,2024-09-29,9.0,1962000,669000,78.9,Active,High School
+E1170,Employee_1170,25.0,Female,Fergana,Sales,2021-08-04,2.0,729000,"35,000",88.5,Inactive,Bachelor
+E1171,Employee_1171,40.0,Female,Samarkand,Finance,2024-04-11,14.0,1821000,674000,76.3,Pending,PhD
+E1172,Employee_1172,42.0,Male,Bukhara,Operations,2021-02-17,14.0,1780000,505000,55.6,Pending,High School
+E1173,Employee_1173,46.0,Female,Andijan,IT,2023-03-23,,627000,240000,62.2,Inactive,Bachelor
+E1174,Employee_1174,37.0,Male,Tashkent,Finance,2024-07-04,,2242000,656000,55.2,Inactive,High School
+E1175,Employee_1175,40.0,Female,Nukus,HR,2024-04-26,17.0,1949000,421000,69.7,Inactive,Bachelor
+E1176,Employee_1176,,Male,Fergana,Support,2021-08-14,17.0,1404000,293000,89.4,Inactive,High School
+E1177,Employee_1177,37.0,,Samarkand,Sales,2024-10-03,12.0,1813000,509000,,Active,High School
+E1178,Employee_1178,43.0,Male,Fergana,IT,,15.0,2410000,649000,92.9,Pending,PhD
+E1179,Employee_1179,,Male,Bukhara,IT,2024-12-02,32.0,1666000,544000,56.5,Pending,Bachelor
+E1180,Employee_1180,44.0,Female,Bukhara,Sales,2021/06/21,22.0,$ 760000,270000,81.5,Inactive,Bachelor
+E1181,Employee_1181,35.0,Female,Andijan,Marketing,2025-01-26,15.0,2007000,449000,88.1,Inactive,High School
+E1182,Employee_1182,33.0,Male,Bukhara,IT,2021-02-06,8.0,966000,141000,69.4,Inactive,High School
+E1183,Employee_1183,58.0,Female,Bukhara,HR,2021-09-30,35.0,1852000,302000,95.2,Inactive,Master
+E1184,Employee_1184,22.0,Female,Khiva,Support,2025-02-05,0.0,1802000,411000,92.6,Inactive,High School
+E1185,Employee_1185,50.0,Female,Bukhara,HR,2023-03-31,26.0,1396000,637000,64.4,Active,High School
+E1186,Employee_1186,22.0,Male,Khiva,HR,2022-11-06,0.0,2390000,411000,,Inactive,Bachelor
+E1187,Employee_1187,54.0,Male,Khiva,HR,2024-01-13,33.0,2081000,429000,97.0,Pending,High School
+E1188,Employee_1188,48.0,Male,Samarkand,IT,2022-08-13,28.0,1581000,,92.8,Active,Master
+E1189,Employee_1189,34.0,Female,,,2021-03-08,11.0,1509000,,81.6,Inactive,Master
+E1190,Employee_1190,43.0,Female,Nukus,IT,2022-11-18,20.0,1837000,336000,73.6,Pending,Bachelor
+E1191,Employee_1191,55.0,Male,Tashkent,Operations,2021-01-21,33.0,1611000,,69.7,Pending,
+E1192,Employee_1192,48.0,Female,Tashkent,Marketing,2021-11-14,25.0,1929000,415000,71.0,Inactive,Master
+E1193,Employee_1193,21.0,Female,Bukhara,Finance,not_a_date,0.0,2430000,680000,59.0,Pending,Master
+E1194,Employee_1194,31.0,Male,Fergana,IT,2021-12-11,8.0,587000,439000,,Pending,PhD
+E1195,Employee_1195,50.0,,Nukus,,2021-06-21,25.0,1356000,140000,,Active,High School
+E1196,Employee_1196,25.0,Female,Andijan,HR,2024-01-17,0.0,1630000,144000,64.4,Active,Bachelor
+E1197,Employee_1197,50.0,Male,Samarkand,IT,2024-01-24,23.0,708000,411000,71.7,Pending,Bachelor
+E1198,Employee_1198,36.0,Female,Samarkand,Support,2023-03-12,11.0,1421000,500000,80.8,Inactive,PhD
+E1199,Employee_1199,42.0,Female,Namangan,HR,2022-07-09,19.0,1260000,160000,98.5,Pending,High School
+E1200,Employee_1200,47.0,Female,Andijan, IT ,2023-05-15,23.0,1324000,623000,,Active,PhD
+E0637,Employee_637,26.0,Male,Fergana,Operations,2021-11-18,4.0,1455000,,70.6,Inactive,High School
+E0684,Employee_684,50.0,Female,,Marketing,,28.0,25000000,7000000,86.7,Pending,Bachelor
+E1034,Employee_1034,44.0,Female,Samarkand,Sales,2022-01-06,20.0,2470000,565000,95.6,Active,Master
+E0191,Employee_191,21.0,Female,Nukus,Sales,2024-10-20,0.0,1194000,398000,77.2,Inactive,
+E1084,Employee_1084,33.0,Female,,Finance,2021-11-03,9.0,1211000,,90.4,Pending,Master
+E0284,Employee_284,42.0,Female,Nukus,HR,2022-09-02,18.0,1673000,689000,92.1,Active,Bachelor
+E0818,Employee_818,38.0,,,HR,2024-11-09,13.0,2284000,91000,70.0,Pending,Bachelor
+E0315,Employee_315,21.0,Male,,,2021-01-25,0.0,1205000,220000,76.9,Inactive,
+E0538,Employee_538,42.0,Male,Khiva,Sales,2023-08-23,18.0,2458000,,72.3,Pending,PhD
+E0665,Employee_665,56.0,Male,Tashkent,Finance,2021-01-02,31.0,939000,591000,69.1,,High School
+E0240,Employee_240,27.0,Female,Namangan,Operations,,3.0,1924000,631000,97.5,Inactive,High School
+E0136,Employee_136,23.0,Male,Andijan,IT,2023-08-29,0.0,810000,274000,75.0,Active,Master
+E0336,Employee_336,31.0,Male,SAMARKAND,Marketing,,9.0,2080000,543000,69.6,Pending,Bachelor
+E0190,Employee_190,36.0,Male,Bukhara,Operations,2021-04-02,9.0,865000,27000,68.8,Inactive,PhD
+E0839,Employee_839,55.0,Female,Khiva,Support,2022-01-15,31.0,2433000,90000,55.3,Pending,Master
+E0322,Employee_322,41.0,Male,Andijan ,,2024-12-09,14.0,1162000,374000,,Pending,Bachelor
+E1147,Employee_1147,49.0,Male,Khiva,,2021-10-01,26.0,1055000,364000,65.9,Pending,Master
+E0229,Employee_229,42.0,Female,Namangan,Marketing,2023-10-26,19.0,642000,401000,94.3,Inactive,High School
+E0481,Employee_481,38.0,Male,Bukhara,IT,2022-11-23,11.0,719000,698000,58.3,Pending,PhD
+E1044,Employee_1044,,Female,Samarkand,Marketing,2023-12-20,6.0,919000,470000,95.7,Pending,PhD
+E1007,Employee_1007,22.0,Male,Bukhara,Sales,2022-06-12,2.0,1529000,609000,55.9,Pending,PhD
+E0307,Employee_307,24.0,,Andijan,Support,2023-09-28,0.0,2090000,193000,67.1,Pending,Master
+E1093,Employee_1093,,Male, Tashkent ,Operations,2022-01-03,8.0,2481000,357000,80.6,Active,Master
+E0569,Employee_569,31.0,Male,Khiva,Sales,2022-04-21,9.0,2213000,342000,57.6,Pending,PhD
+E0221,Employee_221,38.0,Male,Namangan,Sales,2025-02-26,17.0,,441000,91.4,Inactive,Master
+E0832,Employee_832,25.0,Female,Andijan,Sales,2023-04-25,3.0,1167000,420000,86.8,Pending,Master
+E0582,Employee_582,36.0,Male,Samarkand,Sales,2022-11-13,14.0,600000,324000,92.9,Inactive,Master
+E0199,Employee_199,39.0,Female,Khiva,HR,2022-03-19,15.0,1405000,657000,89.8,Pending,Master
+E0917,Employee_917,47.0,Male,Fergana,Marketing,2021-11-23,22.0,1453000,427000,97.3,Inactive,Bachelor
+E0456,Employee_456,41.0,Male,Tashkent,HR,2022-08-03,16.0,661000,190000,85.1,Active,Bachelor
+E1155,Employee_1155,23.0,Female,Andijan,IT,2022-07-10,0.0,,651000,71.4,Inactive,PhD
+E1160,Employee_1160,58.0,Male,Samarkand,Finance,2024-03-17,,1244000,8000,62.2,Inactive,Master
+E1071,Employee_1071,40.0,Female,Andijan,HR,2021-09-20,14.0,1631000,397000,74.4,Inactive,PhD
+E0709,Employee_709,23.0,Female,Samarkand,Finance,2022-04-15,0.0,2469000,185000,61.6,Pending,Bachelor
+E0066,Employee_66,,Male,Tashkent,Operations,2021-11-08,31.0,1943000,156000,87.1,Pending,High School
+E0212,Employee_212,25.0,Male,Namangan,Marketing,2024-08-27,0.0,1813000,516000,82.5,Pending,Master
+E0549,Employee_549,37.0,Male,Nukus,Marketing,2024-12-04,15.0,2046000,338000,89.1,Inactive,High School
+E1065,Employee_1065,44.0,Female,Khiva,Operations,2021-04-06,21.0,,471000,98.4,Pending,PhD
+E0985,Employee_985,43.0,Female,Fergana,IT,2022-12-29,16.0,,55000,63.6,Pending,PhD
+E0160,Employee_160,43.0,Male,Samarkand,HR,2022-11-22,21.0,2167000,,65.8,Inactive,PhD
+E0431,Employee_431,30.0,Female,Andijan,Operations,2024-09-04,6.0,2015000,88000,64.1,Inactive,High School
+E0485,Employee_485,41.0,Female,Tashkent,Sales,2024-01-16,14.0,545000,169000,91.5,Pending,Master
+E0050,Employee_50,43.0,,Khiva,Support,2025-04-04,17.0,2203000,604000,71.8,Pending,Bachelor
+E0082,Employee_82,52.0,Male,Khiva,Marketing,2021-03-26,29.0,1719000,188000,74.3,Inactive,PhD
+E0642,Employee_642,60.0,Male,,Marketing,2024-03-09,38.0,1713000,30000,73.4,Active,
+E0590,Employee_590,59.0,Male,Nukus,Marketing,2024-09-14,35.0,868000,212000,76.2,Pending,Bachelor
+E0624,Employee_624,50.0,Male,Andijan,HR,2023-11-20,23.0,,154000,94.8,Active,Bachelor
+E1061,Employee_1061,49.0,Male,Fergana,,2024-06-15,24.0,799000,645000,,Inactive,Bachelor
+E9000,Employee_812,,Female,,IT,2024-12-20,13.0,1451000,599000,97.4,Active,Bachelor
+E9001,Employee_1022,57.0,Female,Fergana,HR,2023-01-22,33.0,1535000,253000,70.0,Pending,PhD
+E9002,Employee_745,,Female,Khiva,Operations,2025-04-01,19.0,1186000,856000,65.7,Active,Bachelor
+E9003,Employee_598,44.0,Male,Tashkent,IT,2023-01-07,22.0,,178000,97.9,Inactive,Master
+E9004,Employee_771,45.0,Female,Samarkand,Operations,2024-10-23,22.0,1398000,203000,,Active,High School
+E9005,Employee_306,28.0,Female,Namangan,Support,20/05/2025,2.0,1627000,377000,67.5,Active,Master
+E9006,Employee_712,42.0,Female,Bukhara,Operations,2021-11-24,16.0,,113000,92.0,,PhD
+E9007,Employee_62,25.0,Female,Khiva,Marketing,2023-04-22,0.0,1896000,,88.7,Inactive,Master
+E9008,Employee_1006,36.0,Female,Andijan,IT,2021-03-27,11.0,,198000,98.0,Pending,Master
+E9009,Employee_477,41.0,Male,Samarkand,Operations,2025-05-16,14.0,1499000,29000,93.3,Active,Master
+E9010,Employee_1040,30.0,Male,,Operations,2021-11-08,4.0,2410000,713000,71.7,Active,Bachelor
+E9011,Employee_302,51.0,Male,Nukus,Finance,2022-10-12,,813000,412000,55.6,Inactive,PhD
+E9012,Employee_609,58.0,Male,Nukus,IT,2021-06-01,31.0,2184000,205000,62.2,Active,Master
+E9013,Employee_142,59.0,Female,Fergana,Sales,2024-08-09,39.0,1467000,481000,93.2,Inactive,Master
+E9014,Employee_795,47.0,Male,Andijan,HR,2023-06-26,20.0,1729000,,94.7,Pending,Bachelor
+E9015,Employee_389,38.0,Female,Nukus,IT,2021-03-20,17.0,1763000,240000,71.7,Active,PhD
+E9016,Employee_1153,56.0,,Bukhara,Support,2022-06-23,35.0,1547000,227000,80.8,Pending,High School
+E9017,Employee_695,,Female,Khiva,Finance,2024-05-23,3.0,886000,7000000,98.9,Inactive,Bachelor
